@@ -132,7 +132,6 @@
     },
     {
         "(C102) [Chotto Dake Aruyo. (Takemura Sesshu)] Kinaki to Yomu (Kantai Collection -KanColle-) [Chinese] [猫岛汉化组]":[
-            "character:akigumo",
             "male:sole male",
             "female:nakadashi",
             "female:sole female"
@@ -829,7 +828,6 @@
     },
     {
         "(C99) [Chotto Dake Aruyo. (Takemura Sesshu)] Okuyukashi Oominato Hen (Kantai Collection -KanColle-) [Chinese] [猫岛汉化组]":[
-            "character:hamakaze",
             "character:urakaze",
             "male:eye-covering bang",
             "male:gender change",
@@ -2095,8 +2093,7 @@
             "female:small breasts",
             "female:stockings",
             "female:tomboy",
-            "female:x-ray",
-            "other:uncensored"
+            "female:x-ray"
         ]
     },
     {
@@ -7048,7 +7045,6 @@
     },
     {
         "[Shiosai (Ushio Kiyoshi)] Kore demo Hontou ni Aishiteru 2  | 即便如此我也很爱你 2 [Chinese] [白杨汉化组] [Digital]":[
-            "group:shiosai",
             "male:sole male",
             "female:blowjob",
             "female:deepthroat",
@@ -7062,7 +7058,6 @@
     },
     {
         "[Shiosai (Ushio Kiyoshi)] Kore demo Hontou ni Aishiteru | 即便如此我也很爱你 [Chinese] [暴碧汉化组] [Digital]":[
-            "group:shiosai",
             "male:big penis",
             "male:eye-covering bang",
             "male:sole male",
@@ -9142,5 +9137,21 @@
     },
     {
         "魔女は復讐の夜に Ver1.07 精翻中文 【ACT】Night of Revenge-魔女复仇之夜（完结）_哔哩哔哩bilibili_剧情 - 【20%OFF】魔女は復讐の夜に [D-lis] _ DLsite 同人作品 - R18":[]
+    },
+    {
+        "[うるりひ] 海瀬蒼羽はキミだけのモノになりたい２":[
+            "artist:ulrich",
+            "male:sole male",
+            "female:anal",
+            "female:anal intercourse",
+            "female:beauty mark",
+            "female:blowjob",
+            "female:blowjob face",
+            "female:focus blowjob",
+            "female:gloves",
+            "female:sex toys",
+            "female:sole female",
+            "other:no penetration"
+        ]
     }
 ]

@@ -109,7 +109,6 @@
         "female:x-ray"
     ],
     "(C102) [Chotto Dake Aruyo. (Takemura Sesshu)] Kinaki to Yomu (Kantai Collection -KanColle-) [Chinese] [猫岛汉化组]":[
-        "character:akigumo",
         "male:sole male",
         "female:nakadashi",
         "female:sole female"
@@ -694,7 +693,6 @@
         "female:unusual pupils"
     ],
     "(C99) [Chotto Dake Aruyo. (Takemura Sesshu)] Okuyukashi Oominato Hen (Kantai Collection -KanColle-) [Chinese] [猫岛汉化组]":[
-        "character:hamakaze",
         "character:urakaze",
         "male:eye-covering bang",
         "male:gender change",
@@ -1780,8 +1778,7 @@
         "female:small breasts",
         "female:stockings",
         "female:tomboy",
-        "female:x-ray",
-        "other:uncensored"
+        "female:x-ray"
     ],
     "[Danimaru studio (Danimaru)] C103 Omake Book [Chinese] [白杨汉化组] [Digital]":[
         "male:sole male",
@@ -6077,7 +6074,6 @@
         "female:x-ray"
     ],
     "[Shiosai (Ushio Kiyoshi)] Kore demo Hontou ni Aishiteru 2  | 即便如此我也很爱你 2 [Chinese] [白杨汉化组] [Digital]":[
-        "group:shiosai",
         "male:sole male",
         "female:blowjob",
         "female:deepthroat",
@@ -6089,7 +6085,6 @@
         "female:x-ray"
     ],
     "[Shiosai (Ushio Kiyoshi)] Kore demo Hontou ni Aishiteru | 即便如此我也很爱你 [Chinese] [暴碧汉化组] [Digital]":[
-        "group:shiosai",
         "male:big penis",
         "male:eye-covering bang",
         "male:sole male",
@@ -7728,6 +7723,20 @@
         "female:paizuri",
         "female:sole female",
         "female:very long hair"
+    ],
+    "[うるりひ] 海瀬蒼羽はキミだけのモノになりたい２":[
+        "artist:ulrich",
+        "male:sole male",
+        "female:anal",
+        "female:anal intercourse",
+        "female:beauty mark",
+        "female:blowjob",
+        "female:blowjob face",
+        "female:focus blowjob",
+        "female:gloves",
+        "female:sex toys",
+        "female:sole female",
+        "other:no penetration"
     ],
     "[がめんはじ (ノジ)] ななかだし♥せっX!! [Chinese][Digital]":[
         "language:translated",
