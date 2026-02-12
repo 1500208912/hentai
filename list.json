@@ -1091,9 +1091,7 @@
     ],
     "NieRAutomata World Guide Art Collection":[],
     "Pixiv Artist - Samidare (Pixiv id=10083812)":[
-        "character:hex maniac",
-        "character:marnie",
-        "character:misty"
+        "character:marnie"
     ],
     "Sophie no Atelier - Fushigi na Yume no Renkinjutsushi - Koushiki Visual Collection (Dengeki no Kouryakubon)":[],
     "The Art of Porco Rosso":[],
@@ -4274,6 +4272,19 @@
         "female:prostitution",
         "female:sole female"
     ],
+    "[Mannen Junyuuki] KAZUSAddiction I:II -Kyouyama Chuudoku I:II- (Blue Archive) [Digital]":[
+        "character:kazusa kyouyama",
+        "artist:mannen junyuuki",
+        "male:sole male",
+        "female:blowjob",
+        "female:blowjob face",
+        "female:catgirl",
+        "female:collar",
+        "female:deepthroat",
+        "female:halo",
+        "female:kemonomimi",
+        "female:sole female"
+    ],
     "[Mannen Junyuuki] KAZUSAddiction II -Kyouyama Chuudoku- II (Blue Archive) [Chinese] [Digital]":[
         "female:kemonomimi",
         "female:pantyhose",
@@ -5356,7 +5367,6 @@
         "female:swimsuit"
     ],
     "[Oninarasu] Asuna Collection | 亚丝娜合集 (Sword Art Online) [Chinese]":[
-        "parody:sword art online",
         "artist:oninarasu",
         "male:bald",
         "male:big penis",
@@ -5537,7 +5547,6 @@
         "female:halo"
     ],
     "[Ouchi Kaeru] Noraneko | 野猫女孩 (COMIC Kairakuten 2025-03) [Chinese] [暴碧汉化组] [Digital]":[
-        "language:translated",
         "male:condom",
         "male:dilf",
         "male:sole male",
