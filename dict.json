@@ -1366,7 +1366,6 @@
     },
     {
         "[ANCHOR (Mutou Mato)] Isekai Otona no Omochaya-san 2 | 异世界成人玩具店的店主先生2  [Chinese] [白杨汉化组] [Digital]":[
-            "group:anchor",
             "male:butler",
             "male:clone",
             "female:anal",
@@ -1380,7 +1379,6 @@
     },
     {
         "[ANCHOR (Mutou Mato)] Kunoichikitsune ha Arujisama ni Sakaraenai! | 忍者小狐狸无法违抗主公大人! [Chinese] [吗喽汉化组] [Digital]":[
-            "group:anchor",
             "female:bondage",
             "female:fox girl",
             "female:gag",
@@ -1393,7 +1391,6 @@
     },
     {
         "[ANCHOR (Mutou Mato)] Sexy Maid Hiroimashita | 醉酒、然后捡到兽耳娘女仆 [Chinese] [老坑×岑岑汉化] [Digital]":[
-            "group:anchor",
             "female:kemonomimi",
             "female:lolicon",
             "female:maid",
@@ -3920,7 +3917,6 @@
     },
     {
         "[Imai Yuu] Zombie Sekai de Harem o Tsukurou! | 在丧尸遍地的世界里建造后宫 [Chinese]":[
-            "artist:tortuga",
             "female:big breasts",
             "female:guro",
             "female:gyaru",
@@ -4733,7 +4729,6 @@
     },
     {
         "[Kurumaya Koudou] Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shitai - THE CULTIC ART CLUB I would like to break the rules and fool around with my junior nude model | 淫習美術部 和裸體模特學妹想要進行打破枷鎖的青春性愛 [Chinese] [Amerins漢化]":[
-            "group:kurumaya koudou",
             "male:muscle",
             "male:scar",
             "male:schoolboy uniform",
@@ -5562,8 +5557,7 @@
             "female:shared senses",
             "female:sleeping",
             "female:tail",
-            "female:vampire",
-            "other:tankoubon"
+            "female:vampire"
         ]
     },
     {
@@ -8689,7 +8683,6 @@
     },
     {
         "[Yajirushi Key (Meito)] Inma-tachi no Yuugi ~Ittara Owari no Isshuukan~ [Chinese] [白杨汉化组] [Digital]":[
-            "group:yajirushi key",
             "male:monster",
             "female:ahegao",
             "female:crotch tattoo",
@@ -9793,5 +9786,18 @@
     },
     {
         "魔女は復讐の夜に Ver1.07 精翻中文 【ACT】Night of Revenge-魔女复仇之夜（完结）_哔哩哔哩bilibili_剧情 - 【20%OFF】魔女は復讐の夜に [D-lis] _ DLsite 同人作品 - R18":[]
+    },
+    {
+        "[球体-x] クールな同級生の◯年後〜Hな総集編〜Kuuruna Doukyuusei no O nengo~":[
+            "artist:kyutai x",
+            "male:sole male",
+            "female:age progression",
+            "female:big breasts",
+            "female:milf",
+            "female:nakadashi",
+            "female:paizuri",
+            "female:schoolgirl uniform",
+            "female:sole female"
+        ]
     }
 ]
