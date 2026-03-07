@@ -554,6 +554,17 @@
         ]
     },
     {
+        "(C106) [Inst (Interstellar)] Yakan Yuuei (Gakuen IDOLM@STER) [Chinese] [学园偶像大师同好会×神人汉化组]":[
+            "character:mao arimura",
+            "artist:interstellar",
+            "female:kissing",
+            "female:nakadashi",
+            "female:tomboy",
+            "female:twintails",
+            "female:x-ray"
+        ]
+    },
+    {
         "(C79) [Asaki Blog Branch Office (Asaki Takayuki)] Love Urabe+ (Nazo no Kanojo X) [Chinese] [流浪貓·裏]":[
             "male:sole male",
             "female:ahegao",
@@ -3789,7 +3800,6 @@
     },
     {
         "[Hyoco Road (Hyocorou)] Ichinengo, Ore no Ko o Haramu Imouto no Kiroku. - This is a record of how my sister conceived my child 3 [Chinese] [Decensored] [Digital]":[
-            "group:hyoco road",
             "male:sole male",
             "female:big breasts",
             "female:blowjob",
@@ -3803,7 +3813,6 @@
     },
     {
         "[Hyoco Road (Hyocorou)] Seiso x Hanten ~Onna Tomodachi ga Succubus ga Karada ni Nottorarete Mainichi Seiryoku Kyoukyuu saserareru Hanashi~  [Chinese] [驴子汉化组] [Decensored] [Digital]":[
-            "group:hyoco road",
             "male:glasses",
             "male:sole male",
             "female:beauty mark",
@@ -9856,16 +9865,24 @@
         "魔女は復讐の夜に Ver1.07 精翻中文 【ACT】Night of Revenge-魔女复仇之夜（完结）_哔哩哔哩bilibili_剧情 - 【20%OFF】魔女は復讐の夜に [D-lis] _ DLsite 同人作品 - R18":[]
     },
     {
-        "(C106) [Inst (Interstellar)] Yakan Yuuei (Gakuen IDOLM@STER) [Chinese] [学园偶像大师同好会×神人汉化组]":[
-            "language:translated",
-            "character:mao arimura",
-            "character:saki hanami",
-            "artist:interstellar",
-            "female:kissing",
+        "[TRY&Hougen Futari Shakai (TRY Hougen)] Seitokai no Joshi-tachi ga Kyonyuu Sugiru Ken | 學生會的女生們胸部很大那件事 [Chinese] [Digital]":[
+            "parody:original",
+            "artist:try",
+            "male:dark skin",
+            "male:tall man",
+            "female:ahegao",
+            "female:beauty mark",
+            "female:big breasts",
+            "female:blowjob",
+            "female:bukkake",
+            "female:cum bath",
+            "female:multimouth blowjob",
             "female:nakadashi",
-            "female:tomboy",
-            "female:twintails",
-            "female:x-ray"
+            "female:ponytail",
+            "female:schoolgirl uniform",
+            "female:sweating",
+            "mixed:group",
+            "other:uncensored"
         ]
     }
 ]
