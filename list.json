@@ -2422,8 +2422,7 @@
         "female:tanlines",
         "female:tomboy",
         "female:twintails",
-        "female:x-ray",
-        "location:infirmary"
+        "female:x-ray"
     ],
     "[Doji Ro] Iinchou wa Otosenai [Kanzenban] [Chinese] [神罗个人汉化] [Colorized]":[
         "male:domination loss",
@@ -2865,15 +2864,10 @@
         "female:sole female"
     ],
     "[Fanbox] Takaman (Kantai Collection -KanColle-) [Chinese] [吸住没碎个人汉化]":[
-        "language:translated",
         "character:atago",
-        "character:hornet",
         "character:kaga",
-        "character:maya",
         "character:richelieu",
-        "character:sendai",
         "character:takao",
-        "character:yamashiro",
         "artist:takaman",
         "male:big penis",
         "male:dark skin",
@@ -2921,8 +2915,7 @@
         "female:tail plug",
         "female:tentacles",
         "female:twintails",
-        "female:x-ray",
-        "mixed:group"
+        "female:x-ray"
     ],
     "[Fanbox] ﾌﾞﾚｴﾄﾞ(2020.12.01 ~ 2024.06.10)":[
         "female:anal",
@@ -3465,7 +3458,6 @@
         "female:yuri"
     ],
     "[Hatome Honpo (Hatome)] Maryokugire de Miugoki ga Torenai Mahou Shoujo Aite ni Makeru Wake ga Nai daro! [Chinese] [紫藤汉化组]":[
-        "language:translated",
         "group:hatome honpo",
         "male:sole male",
         "female:ahegao",
