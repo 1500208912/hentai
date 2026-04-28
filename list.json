@@ -222,6 +222,20 @@
         "female:rape",
         "female:vaginal birth"
     ],
+    "(C103) [Dokudami (Okita Ababa)] Boku no Shishou ga Kanemochi no Ijimekko ni NTRreta Hanashi [English]":[
+        "language:translated",
+        "group:dokudami",
+        "male:bbm",
+        "male:eye-covering bang",
+        "male:sole male",
+        "female:handjob",
+        "female:nakadashi",
+        "female:netorare",
+        "female:sole female",
+        "female:sweating",
+        "female:tomboy",
+        "other:scanmark"
+    ],
     "(C103) [Futosuto (Junsui na Fujunbutsu)] Millennium! |  咱们千年人！ (Blue Archive) [Chinese] [碧蓝档案同人组]":[
         "female:halo"
     ],
@@ -312,6 +326,39 @@
         "female:twintails",
         "female:very long hair"
     ],
+    "(C104) [Dokudami (Okita Ababa)] Mori o Mamoru Ookami Shoujo ga Inkou Shisai ni NTRreta Hanashi":[
+        "group:dokudami",
+        "male:bald",
+        "male:bbm",
+        "male:dilf",
+        "male:priest",
+        "male:sole male",
+        "female:ahegao",
+        "female:blowjob",
+        "female:dark skin",
+        "female:garter belt",
+        "female:impregnation",
+        "female:netorare",
+        "female:nun",
+        "female:sole female",
+        "female:stockings"
+    ],
+    "(C104) [Dokudami (Okita Ababa)] Mori o Mamoru Ookami Shoujo ga Inkou Shisai ni NTRreta Hanashi | 保护森林的少女被行淫司祭NTR走的故事 [Chinese]":[
+        "language:translated",
+        "group:dokudami",
+        "male:bald",
+        "male:bbm",
+        "male:dilf",
+        "male:sole male",
+        "female:dark skin",
+        "female:garter belt",
+        "female:impregnation",
+        "female:kemonomimi",
+        "female:netorare",
+        "female:nun",
+        "female:sole female",
+        "female:stockings"
+    ],
     "(C104) [Futsu-no-Tapioca-Yasan (Futatsuno-Peanuts)] Miyu, Sore Joji no Mizugi de wa? |  美游、你穿的是儿童泳装吗？(Blue Archive) [Chinese] [白杨汉化组]":[
         "male:dark skin",
         "male:sole male",
@@ -339,6 +386,16 @@
         "female:kemonomimi",
         "female:lolicon",
         "female:tail"
+    ],
+    "(C104) [Kodama Hyakkaten (ONAKA)] Juudoubu Buchou Orihara Makoto ga Onna ni Naru made Zenpen [Chinese] [死兆修会]":[
+        "language:translated",
+        "artist:onaka",
+        "male:gender change",
+        "female:dougi",
+        "female:small breasts",
+        "female:sole female",
+        "female:tomboy",
+        "other:no penetration"
     ],
     "(C104) [Luna  Koubou  (Jala)] Heroine  Minna to Soku H Shichau Hon Mushoku Tensei Hen  (Mushoku Tensei ~Isekai Ittara Honki Dasu~) [Chinese]":[
         "male:kissing",
@@ -744,6 +801,17 @@
         "female:prostitution",
         "female:sole female"
     ],
+    "(C95) [Dokudami (Okita Ababa)] Boku ga Kataomoi Shiteita Bungaku Shoujo ga Keihaku na Classmate ni NTRreta Hanashi [Chinese]  [菓子铺汉化]":[
+        "language:translated",
+        "group:dokudami",
+        "male:glasses",
+        "female:glasses",
+        "female:netorare",
+        "female:pantyhose",
+        "female:schoolgirl uniform",
+        "female:sole female",
+        "female:stockings"
+    ],
     "(C96) [OrangeMaru (YD)] Chaldea Maid #Mash (Fate/Grand Order) [Chinese] [空気系☆漢化] [Decensored]":[
         "male:sole male",
         "female:blowjob",
@@ -791,6 +859,17 @@
         "female:sole female",
         "female:stockings",
         "female:unusual pupils"
+    ],
+    "(C97) [Sashimi no Wife (Shiden)] Wet Girls part2 [Chinese] [一只麻利的鸽子汉化]":[
+        "language:translated",
+        "group:sashimi no wife",
+        "male:sole male",
+        "female:pixie cut",
+        "female:schoolgirl uniform",
+        "female:sweating",
+        "female:swimsuit",
+        "female:tanlines",
+        "female:tomboy"
     ],
     "(C99) [Chotto Dake Aruyo. (Takemura Sesshu)] Okuyukashi Oominato Hen (Kantai Collection -KanColle-) [Chinese] [猫岛汉化组]":[
         "male:eye-covering bang",
@@ -2864,11 +2943,8 @@
         "female:sole female"
     ],
     "[Fanbox] Takaman (Kantai Collection -KanColle-) [Chinese] [吸住没碎个人汉化]":[
-        "character:atago",
         "character:kaga",
-        "character:richelieu",
         "character:takao",
-        "artist:takaman",
         "male:big penis",
         "male:dark skin",
         "male:hairy",
@@ -3458,7 +3534,6 @@
         "female:yuri"
     ],
     "[Hatome Honpo (Hatome)] Maryokugire de Miugoki ga Torenai Mahou Shoujo Aite ni Makeru Wake ga Nai daro! [Chinese] [紫藤汉化组]":[
-        "group:hatome honpo",
         "male:sole male",
         "female:ahegao",
         "female:blindfold",
@@ -4080,6 +4155,14 @@
         "female:underwater",
         "female:x-ray"
     ],
+    "[JunkZero] Dogo Girl":[
+        "artist:junkzero",
+        "female:collar",
+        "female:dark skin",
+        "female:dog girl",
+        "female:kemonomimi",
+        "female:sole female"
+    ],
     "[JunkZero] Ev3 - Robot Girl":[
         "male:sole male",
         "female:doll joints",
@@ -4436,6 +4519,26 @@
         "female:stockings",
         "female:very long hair",
         "female:yandere"
+    ],
+    "[Kodama Hyakkaten (ONAKA)] Juudoubu Buchou Orihara Makoto ga Onna ni Naru made | 直到柔道部部长织原真成为女人为止 [Chinese] [Digital]":[
+        "language:translated",
+        "artist:onaka",
+        "male:condom",
+        "male:gender change",
+        "male:gender morph",
+        "male:gyaru-oh",
+        "male:shaved head",
+        "female:blowjob",
+        "female:dougi",
+        "female:group",
+        "female:netorare",
+        "female:ponytail",
+        "female:schoolgirl uniform",
+        "female:small breasts",
+        "female:sole female",
+        "female:tomboy",
+        "female:urination",
+        "mixed:mmf threesome"
     ],
     "[Komi] Kazusa NTR3":[
         "female:big nipples",
@@ -5339,6 +5442,14 @@
         "female:kemonomimi",
         "female:lolicon",
         "female:sole female"
+    ],
+    "[Mutou Mato] Mimi to Shippo no Muse - Muse of Ears and Tail [Digital]":[
+        "group:anchor",
+        "female:double penetration",
+        "female:kemonomimi",
+        "female:lolicon",
+        "female:tail",
+        "other:soushuuhen"
     ],
     "[Mutou Mato] Utsushiyo to Osanaduma [Chinese] [Decensored] [Digital]":[
         "male:blindfold",
@@ -6844,6 +6955,29 @@
         "female:nakadashi",
         "female:netorare",
         "female:randoseru"
+    ],
+    "[Sashimi no Wife (Shiden)] After Summer Vacation | 在暑假之后 [Chinese] [甜族星人X茄某人个人汉化] [Digital]":[
+        "language:translated",
+        "group:sashimi no wife",
+        "male:condom",
+        "male:sole male",
+        "male:sweating",
+        "female:ponytail",
+        "female:sole female",
+        "female:sweating",
+        "female:swimsuit",
+        "female:tanlines",
+        "female:tomboy"
+    ],
+    "[Sashimi no Wife (Shiden)] Last Summer Vacation [Chinese] [一只麻利的鸽子汉化x甜族星人出资] [Digital]":[
+        "language:translated",
+        "group:sashimi no wife",
+        "male:condom",
+        "male:sole male",
+        "female:ponytail",
+        "female:sole female",
+        "female:tanlines",
+        "female:tomboy"
     ],
     "[Seibunkaken (Yanagida Fumita)] Kawaii Kawaii Kawaii | 可爱 可爱 很可爱 [Chinese] [这样很好=汉化组合]":[
         "male:muscle",
