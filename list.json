@@ -1,6 +1,5 @@
 {
     "(AC2) [AquaDrop (Mikami Mika)] AQUQDROP tracks202012 [Chinese] [绅士仓库汉化]":[
-        "language:translated",
         "group:aquadrop"
     ],
     "(AC2) [Kamaboko Koubou (Kamaboko)] Seijo Choukyou - Namaiki na Mei o Wakarasete [Chinese] [新桥月白日语社汉化]":[
@@ -40,6 +39,12 @@
         "female:stirrup legwear",
         "female:stockings"
     ],
+    "(BanG Dreamer's Party! 6th STAGE) [★☆ Hibari ☆★ (Yukimi)] Iya Nante Itte Nee! (BanG Dream!) [Chinese] [猫在汉化]":[
+        "language:translated",
+        "character:arisa ichigaya",
+        "group:hibari",
+        "female:females only"
+    ],
     "(Bocchi the Book! #2) [Takeno no Nedoko (Takeno)] Nijika to Alcohol | 虹夏与酒精 (Bocchi the Rock!) [Chinese] [猫岛汉化组]":[
         "female:females only"
     ],
@@ -76,7 +81,6 @@
         "female:tail"
     ],
     "(C101) [Dokudami (Okita Ababa)] Succubus na Osananajimi ga NTRreta Hanashi [Chinese] [逃亡者×真不可视汉化组]":[
-        "language:translated",
         "group:dokudami",
         "male:gyaru-oh",
         "male:virginity",
@@ -540,7 +544,6 @@
         "female:x-ray"
     ],
     "(C107) [Dokudami (Okita Ababa)] Karen na Elf no Anoko ga Mitsuryousha no Ningen ni NTRreta Hanashi [Chinese] [人類太可惡漢化]":[
-        "language:translated",
         "group:dokudami",
         "male:sole male",
         "female:big breasts",
@@ -847,7 +850,6 @@
         "female:sole female"
     ],
     "(C97) [Dokudami (Okita Ababa)] Onna Kishi na Osananajimi ga Yarichin ni NTRreta Hanashi [Chinese] [牛头人部落×新桥月白日语社]":[
-        "language:translated",
         "group:dokudami",
         "male:blackmail",
         "female:impregnation",
@@ -1636,7 +1638,6 @@
         "female:voyeurism"
     ],
     "[Aqua Drop (Mikami Mika)] Imouto ga Naiterunde Kaerimasu. [Chinese] [新桥月白日语社] [Digital]":[
-        "language:translated",
         "artist:mikami mika"
     ],
     "[Artist] いーさん+[Pixiv] うーろんちゃ内孤独摇滚相关（中文翻译）":[
@@ -5468,7 +5469,6 @@
         "female:twintails"
     ],
     "[Momozumi (Momozumi Jun)] Furete Tokashite Afuresasete [Digital]":[
-        "group:momozumi",
         "male:condom",
         "male:sole male",
         "female:big breasts",
@@ -8773,6 +8773,16 @@
         "female:double penetration",
         "female:sole female"
     ],
+    "[enuma elish (Yukimi)] Saori [Chinese]  [hengnio個人漢化] [Digital]":[
+        "language:translated",
+        "group:enuma elish",
+        "male:bbm",
+        "male:sole male",
+        "female:anal",
+        "female:glasses",
+        "female:schoolgirl uniform",
+        "female:sole female"
+    ],
     "[enuma elish (Yukimi)] Saori [Chinese] [hengnio個人漢化] [Decensored] [Digital]":[
         "male:bbm",
         "male:sole male",
@@ -9355,6 +9365,10 @@
         "female:paizuri",
         "female:sole female",
         "female:very long hair"
+    ],
+    "[いーさん] どすけべどすけべ (VOCALOID)":[
+        "character:miku hatsune",
+        "female:twintails"
     ],
     "[うるりひ] 海瀬蒼羽はキミだけのモノになりたい２":[
         "male:sole male",
