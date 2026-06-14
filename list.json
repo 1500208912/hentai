@@ -390,6 +390,14 @@
         "female:swimsuit",
         "female:twintails"
     ],
+    "(C104) [Kaishaku] Dragon Shoujo wa Dragon Slayer ni Nante Makenai! | 龙人少女才不会输给什么屠龙宝刀！ (Ruri Dragon) [Chinese] [角都九阳个人汉化]":[
+        "language:translated",
+        "character:ruri aoki",
+        "artist:kaishaku",
+        "female:bunny girl",
+        "female:horns",
+        "female:schoolgirl uniform"
+    ],
     "(C104) [Kemomimi-chanya (Naga U)] Schale no Sensei o Kansatsu Shiyou! | 一起观察夏莱的老师吧! (Blue Archive) [Chinese] [欶澜汉化组]":[
         "female:catgirl",
         "female:eye-covering bang",
@@ -1107,11 +1115,8 @@
         "female:very long hair"
     ],
     "(FF46) [MountainHan] 兔寶寶公園經營手札 (Blue Archive) [Chinese] [Sample]":[
-        "parody:blue archive",
         "character:saki sorai",
-        "artist:mountainhan",
-        "female:lolicon",
-        "other:sample"
+        "female:lolicon"
     ],
     "(GW Chou Doujinsai) [Little Hamlet (Kiira)] Sensei to Watashi to Nekomimi Parka":[
         "male:sole male",
@@ -1441,6 +1446,21 @@
         "female:sole female",
         "female:squirting"
     ],
+    "[Aamou-ya (Aamou-chan)] Mirai no Kanojo ga Oshieru Ima Kano no Kouryakuhou | 未來女友教我現任女友攻略法 [Chinese]":[
+        "language:translated",
+        "group:aamou-ya",
+        "male:glasses",
+        "male:schoolboy uniform",
+        "male:sole male",
+        "male:virginity",
+        "female:beauty mark",
+        "female:big breasts",
+        "female:kissing",
+        "female:masturbation",
+        "female:nakadashi",
+        "female:schoolgirl uniform",
+        "female:squirting"
+    ],
     "[Aamou-ya (Aamou-chan)] Nee Socchi Janakute, Watashi no Omanko ni Irete Hoshii!! [Chinese] [甜族星人赞助汉化]":[
         "male:layer cake",
         "male:nipple stimulation",
@@ -1479,7 +1499,6 @@
         "female:tail",
         "female:twintails",
         "female:unusual pupils",
-        "mixed:mmf threesome",
         "other:pixel art"
     ],
     "[Acerola] Treasure Hunter Claire ~Cum Collecting Adventurer~ [Uncensored] Part 2":[
@@ -1707,7 +1726,6 @@
     ],
     "[Aqua Drop (Mikami Mika)] Imouto ga Naiterunde Kaerimasu. [Chinese] [新桥月白日语社] [Digital]":[],
     "[Artist] Ice Reizou":[
-        "artist:ice reizou",
         "female:big breasts"
     ],
     "[Artist] いーさん+[Pixiv] うーろんちゃ内孤独摇滚相关（中文翻译）":[
@@ -3594,31 +3612,18 @@
         "female:tomboy"
     ],
     "[HarmoNeaR (Various)] \"BluArch Juukan + Ishukan Goudoushi\" Sow do on me! vol. 2  | 蔚藍檔案獸交+異種姦合同誌 Sow do on me! Vol. 2 (Blue Archive) [Chinese] [初雪個人漢化] [Digital] [Incomplete]":[
-        "language:translated",
         "group:harmonear",
-        "artist:ao choku",
         "artist:biyobiyo",
-        "artist:clearite",
         "artist:erory",
-        "artist:fon",
         "artist:hakeashi",
-        "artist:ikisugi shokudou",
         "artist:ishimari yuuya",
-        "artist:kumanomi",
         "artist:kurohagane",
-        "artist:mori sinrisk",
         "artist:nekotewi",
-        "artist:ohisashiburi",
         "artist:panapana",
-        "artist:polki",
         "artist:rotten pizza",
-        "artist:simejitake",
         "artist:strong reitaro",
-        "artist:toriyaro",
         "artist:tsutsuda pipeman",
-        "artist:umiwashi",
         "artist:uno ryoku",
-        "artist:ushio kiyoshi",
         "artist:yahagi wakahiko",
         "male:bear",
         "male:dog",
@@ -3661,8 +3666,7 @@
         "female:tentacles",
         "female:vaginal birth",
         "female:vomit",
-        "female:x-ray",
-        "other:goudoushi"
+        "female:x-ray"
     ],
     "[HarmoNeaR (Various)] BluArch Juukan Goudoushi Sow do on me! Vol. 1 (Blue Archive) [Chinese] [星塔旅人汉化组] [Digital]":[
         "male:bear",
@@ -6821,9 +6825,7 @@
         "female:stockings"
     ],
     "[Patreon & Fanbox] GSUS (Set 1)":[
-        "parody:cyberpunk",
         "parody:my hero academia",
-        "character:david",
         "character:nijika ijichi",
         "female:ahegao",
         "female:anal",
@@ -9245,8 +9247,7 @@
         "female:rape",
         "female:schoolgirl uniform",
         "female:small breasts",
-        "female:urination",
-        "other:mosaic censorship"
+        "female:urination"
     ],
     "[hej] Nobido (Doraemon) [Chinese]":[],
     "[ie Kenkyuushitsu (ie)] Yuusha to Hime to Okaa-sama!?  [Chinese] [XLM个人汉化] [Decensored] [Digital]":[
@@ -9966,9 +9967,7 @@
     "ratatata74·巨魔与小盗贼的纯爱圣诞节（LC整合汉化组）":[
         "female:pregnant"
     ],
-    "●PIXIV● 愛須冷蔵 [7843004]":[
-        "artist:ice reizou"
-    ],
+    "●PIXIV● 愛須冷蔵 [7843004]":[],
     "【てんてこ】キョンシーになった後輩【小孙汉化组】":[],
     "このすば (Kono Subarashii Sekai ni Syukufuku o!)":[
         "male:sole male",
