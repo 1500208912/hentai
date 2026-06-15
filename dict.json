@@ -475,6 +475,14 @@
         ]
     },
     {
+        "(C104) [Kaishaku] Dragon Shoujo wa Dragon Slayer ni Nante Makenai! | 龙人少女才不会输给什么屠龙宝刀！ (Ruri Dragon) [Chinese] [角都九阳个人汉化]":[
+            "character:ruri aoki",
+            "female:bunny girl",
+            "female:horns",
+            "female:schoolgirl uniform"
+        ]
+    },
+    {
         "(C104) [Kemomimi-chanya (Naga U)] Schale no Sensei o Kansatsu Shiyou! | 一起观察夏莱的老师吧! (Blue Archive) [Chinese] [欶澜汉化组]":[
             "female:catgirl",
             "female:eye-covering bang",
@@ -1328,7 +1336,6 @@
     },
     {
         "(FF46) [MountainHan] 兔寶寶公園經營手札 (Blue Archive) [Chinese] [Sample]":[
-            "character:saki sorai",
             "female:lolicon"
         ]
     },
@@ -1747,6 +1754,22 @@
         ]
     },
     {
+        "[Aamou-ya (Aamou-chan)] Mirai no Kanojo ga Oshieru Ima Kano no Kouryakuhou | 未來女友教我現任女友攻略法 [Chinese]":[
+            "group:aamou-ya",
+            "male:glasses",
+            "male:schoolboy uniform",
+            "male:sole male",
+            "male:virginity",
+            "female:beauty mark",
+            "female:big breasts",
+            "female:kissing",
+            "female:masturbation",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:squirting"
+        ]
+    },
+    {
         "[Aamou-ya (Aamou-chan)] Nee Socchi Janakute, Watashi no Omanko ni Irete Hoshii!! [Chinese] [甜族星人赞助汉化]":[
             "male:layer cake",
             "male:nipple stimulation",
@@ -1786,8 +1809,7 @@
             "female:stockings",
             "female:tail",
             "female:twintails",
-            "female:unusual pupils",
-            "other:pixel art"
+            "female:unusual pupils"
         ]
     },
     {
@@ -4206,19 +4228,12 @@
     },
     {
         "[HarmoNeaR (Various)] \"BluArch Juukan + Ishukan Goudoushi\" Sow do on me! vol. 2  | 蔚藍檔案獸交+異種姦合同誌 Sow do on me! Vol. 2 (Blue Archive) [Chinese] [初雪個人漢化] [Digital] [Incomplete]":[
-            "group:harmonear",
             "artist:biyobiyo",
-            "artist:erory",
             "artist:hakeashi",
-            "artist:ishimari yuuya",
             "artist:kurohagane",
-            "artist:nekotewi",
             "artist:panapana",
-            "artist:rotten pizza",
             "artist:strong reitaro",
-            "artist:tsutsuda pipeman",
             "artist:uno ryoku",
-            "artist:yahagi wakahiko",
             "male:bear",
             "male:dog",
             "male:frog",
@@ -7893,7 +7908,6 @@
     },
     {
         "[Patreon & Fanbox] GSUS (Set 1)":[
-            "parody:my hero academia",
             "character:nijika ijichi",
             "female:ahegao",
             "female:anal",
@@ -11621,33 +11635,6 @@
         "［SigMa］クール系後輩店員さんはちょろいです。［酸菜魚ゅ°个人汉化］":[
             "male:first person perspective",
             "female:sole female"
-        ]
-    },
-    {
-        "[Aamou-ya (Aamou-chan)] Mirai no Kanojo ga Oshieru Ima Kano no Kouryakuhou | 未來女友教我現任女友攻略法 [Chinese]":[
-            "language:translated",
-            "group:aamou-ya",
-            "male:glasses",
-            "male:schoolboy uniform",
-            "male:sole male",
-            "male:virginity",
-            "female:beauty mark",
-            "female:big breasts",
-            "female:kissing",
-            "female:masturbation",
-            "female:nakadashi",
-            "female:schoolgirl uniform",
-            "female:squirting"
-        ]
-    },
-    {
-        "(C104) [Kaishaku] Dragon Shoujo wa Dragon Slayer ni Nante Makenai! | 龙人少女才不会输给什么屠龙宝刀！ (Ruri Dragon) [Chinese] [角都九阳个人汉化]":[
-            "language:translated",
-            "character:ruri aoki",
-            "artist:kaishaku",
-            "female:bunny girl",
-            "female:horns",
-            "female:schoolgirl uniform"
         ]
     }
 ]
