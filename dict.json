@@ -1335,7 +1335,6 @@
     },
     {
         "(FF46) [MountainHan] Rabbit Park Management Notes + omake (Blue Archive) [Chinese]":[
-            "artist:mountainhan",
             "male:sole male",
             "female:halo",
             "female:harem",
@@ -1711,7 +1710,6 @@
     },
     {
         "[92m] Ellen Joe (Zenless Zone Zero) [Chinese]":[
-            "character:ellen joe",
             "male:sole male",
             "female:beauty mark",
             "female:bikini",
@@ -5008,7 +5006,6 @@
     },
     {
         "[Itohanana (Itohana)] Namaiki na Osananajimi ga Ore no Koto o Ryakudatsu shinikuru Kachi | 狂妄的青梅竹马前来将我掠夺并大获全胜 [Chinese] [白杨汉化组] [Digital]":[
-            "group:itohanana",
             "male:cheating",
             "male:condom",
             "male:netorare",
@@ -11785,6 +11782,11 @@
         "［SigMa］クール系後輩店員さんはちょろいです。［酸菜魚ゅ°个人汉化］":[
             "male:first person perspective",
             "female:sole female"
+        ]
+    },
+    {
+        "[AzarashiSoft] Aikagi ~After Days~ (Character Set)":[
+            "artist:gintarou"
         ]
     }
 ]

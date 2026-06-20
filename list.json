@@ -1112,7 +1112,6 @@
         "female:very long hair"
     ],
     "(FF46) [MountainHan] Rabbit Park Management Notes + omake (Blue Archive) [Chinese]":[
-        "artist:mountainhan",
         "male:sole male",
         "female:halo",
         "female:harem",
@@ -1408,7 +1407,6 @@
         "female:twintails"
     ],
     "[92m] Ellen Joe (Zenless Zone Zero) [Chinese]":[
-        "character:ellen joe",
         "male:sole male",
         "female:beauty mark",
         "female:bikini",
@@ -1809,6 +1807,9 @@
         "female:sister",
         "female:sole female",
         "female:twintails"
+    ],
+    "[AzarashiSoft] Aikagi ~After Days~ (Character Set)":[
+        "artist:gintarou"
     ],
     "[Azure Ghost] Gadgets α 04 (Genshin Impact) [Chinese]":[
         "female:gloves",
@@ -4287,7 +4288,6 @@
         "female:thigh high boots"
     ],
     "[Itohanana (Itohana)] Namaiki na Osananajimi ga Ore no Koto o Ryakudatsu shinikuru Kachi | 狂妄的青梅竹马前来将我掠夺并大获全胜 [Chinese] [白杨汉化组] [Digital]":[
-        "group:itohanana",
         "male:cheating",
         "male:condom",
         "male:netorare",
