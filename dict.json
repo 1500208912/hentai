@@ -672,6 +672,14 @@
         ]
     },
     {
+        "(C106) [SKK (Syoukaki)] HOLIDAY WITH… (GIRLS' FRONTLINE 2: EXILIUM) [Chinese] [欶澜汉化组]":[
+            "character:springfield",
+            "male:sole male",
+            "female:nakadashi",
+            "female:sole female"
+        ]
+    },
+    {
         "(C107) [Dokudami (Okita Ababa)] Karen na Elf no Anoko ga Mitsuryousha no Ningen ni NTRreta Hanashi [Chinese] [人類太可惡漢化]":[
             "male:sole male",
             "female:big breasts",
@@ -807,7 +815,6 @@
     },
     {
         "(C89) [Hirahira (Hirari)] Koisuru Dorei-chan - Silvi is falling in love with you | 戀愛中的奴隸醬 (Dorei to no Seikatsu -Teaching Feeling-) [Chinese] [無毒漢化組] [Decensored]":[
-            "character:sylvie",
             "male:sole male",
             "female:lolicon",
             "female:scar",
@@ -1019,6 +1026,21 @@
             "female:schoolgirl uniform",
             "female:sole female",
             "female:stockings"
+        ]
+    },
+    {
+        "(C96) [Beicon (Beijuu)] Anzen Souchi no Nai Juu | 保險裝置已解除 (Girls' Frontline) [Chinese] [千岁汉化组]":[
+            "character:shikikan",
+            "male:sole male",
+            "female:bikini",
+            "female:domination loss",
+            "female:femdom",
+            "female:high heels",
+            "female:pantyhose",
+            "female:small breasts",
+            "female:sole female",
+            "female:stockings",
+            "female:swimsuit"
         ]
     },
     {
@@ -1303,6 +1325,17 @@
         ]
     },
     {
+        "(FF34) [Kuyou] Hakudaku Shita Kokoro de Some (Girls' Frontline) [Chinese]":[
+            "artist:kuyou",
+            "male:condom",
+            "female:mind break",
+            "female:nakadashi",
+            "female:netorare",
+            "female:stockings",
+            "female:twintails"
+        ]
+    },
+    {
         "(FF40) [Hoshoku Shoujo (Karasu Chan)] 數學 1 下":[
             "male:schoolboy uniform",
             "female:beauty mark",
@@ -1455,9 +1488,7 @@
     },
     {
         "(SC2016 Winter) [Hirahira (Hirari)] Dorei-chan to no Saisho no Hanashi - The first story with silvi (Dorei to no Seikatsu -Teaching Feeling-) [Chinese] [反正整个汉化组就老子一人汉化组]":[
-            "language:translated",
             "character:sylvie",
-            "artist:hirari",
             "male:sole male",
             "female:scar",
             "female:sole female",
@@ -1627,6 +1658,14 @@
     },
     {
         "Imigimuru ART WORKS fruits [Digital]":[]
+    },
+    {
+        "Kyuta/きゅうた misc (fanbox)":[
+            "female:insect",
+            "female:parasite",
+            "female:tentacles",
+            "female:x-ray"
+        ]
     },
     {
         "Magical Valkyrie Fyristia":[
@@ -2098,6 +2137,16 @@
         ]
     },
     {
+        "[Annomike]Motto! Sewayaki❤Mesugaki Obaa-chan|更多！热心体贴❤小丫头大场妹妹(COMIC Kaien VOL.21) [Chinese] [常熟硬汉化组] [Digital]":[
+            "male:glasses",
+            "male:sole male",
+            "female:ponytail",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:tanlines"
+        ]
+    },
+    {
         "[Aohimo Familia (Aohimo)] Kanojo no Imouto ga Kyonyuu MiniSkir JK de Koakuma-kei 5 | 女友的妹妹是穿著迷你裙的小惡魔巨乳J● 5 [Chinese] [Digital]":[
             "male:glasses",
             "male:sole male",
@@ -2395,7 +2444,6 @@
     },
     {
         "[Boole] Time Loop de Kaihatsu Sareru Sister [Chinese] [Decensored]":[
-            "artist:boole",
             "male:sole male",
             "female:ahegao",
             "female:big breasts",
@@ -6674,6 +6722,29 @@
         ]
     },
     {
+        "[Momofes (Oki Nagomi, Buki)] Hebigamisama ni Miirarete 2 |  我被蛇神大人迷住了 2 [Chinese] [白杨汉化组] [Digital]":[
+            "group:momofes",
+            "male:bite mark",
+            "male:multiple orgasms",
+            "male:nipple stimulation",
+            "male:sole male",
+            "female:ball sucking",
+            "female:big breasts",
+            "female:eye-covering bang",
+            "female:femdom",
+            "female:footjob",
+            "female:huge breasts",
+            "female:long tongue",
+            "female:monster girl",
+            "female:rimjob",
+            "female:saliva",
+            "female:snake girl",
+            "female:sole female",
+            "female:tall girl",
+            "female:unusual teeth"
+        ]
+    },
+    {
         "[Momofes (Oki Nagomi, Buki)] Hebigamisama ni Miirarete | 我被蛇神大人迷住了 [Chinese] [白杨汉化组] [Digital]":[
             "male:big penis",
             "male:sole male",
@@ -7015,7 +7086,6 @@
     },
     {
         "[Naizou Kenkyuujyo (Yasashii Naizou)] Downer Kenkyuusha Onee-san ni Onegai shite Ecchi na Koto shite Morau Hanashi. [Chinese] [鈽鐳鉻銻]":[
-            "artist:yasashii naizou",
             "female:blowjob",
             "female:hairy",
             "female:handjob",
@@ -7838,7 +7908,6 @@
     },
     {
         "[Oninarasu] EMT (NTR 1 - 4 & Extras)(2/19/2026)(Re: Zero kara Hajimeru Isekai Seikatsu)":[
-            "character:emilia",
             "artist:oninarasu",
             "male:bbm",
             "male:dark skin",
@@ -11647,6 +11716,75 @@
         ]
     },
     {
+        "[アヘ丸] Fantia+Patreon作品汉化合集 [cheems个人汉化]":[
+            "parody:dragon ball",
+            "parody:kimetsu no yaiba",
+            "parody:monster hunter",
+            "parody:pokemon",
+            "parody:touhou project",
+            "character:android 18",
+            "character:frieren",
+            "character:ilulu",
+            "character:kyoka jiro",
+            "character:minoto",
+            "character:momo yaoyorozu",
+            "character:patchouli knowledge",
+            "character:sailor moon",
+            "character:shouko komi",
+            "character:wiz",
+            "male:smalldom",
+            "male:smegma",
+            "female:ahegao",
+            "female:all the way through",
+            "female:anal",
+            "female:anal prolapse",
+            "female:armpit licking",
+            "female:bbw",
+            "female:big areolae",
+            "female:big breasts",
+            "female:big nipples",
+            "female:blowjob",
+            "female:blowjob face",
+            "female:body modification",
+            "female:bondage",
+            "female:cervix prolapse",
+            "female:clit stimulation",
+            "female:corruption",
+            "female:deepthroat",
+            "female:double penetration",
+            "female:eggs",
+            "female:emotionless sex",
+            "female:exhibitionism",
+            "female:fisting",
+            "female:gaping",
+            "female:gokkun",
+            "female:gyaru",
+            "female:hidden sex",
+            "female:huge breasts",
+            "female:impregnation",
+            "female:inverted nipples",
+            "female:kissing",
+            "female:lactation",
+            "female:leotard",
+            "female:milf",
+            "female:mind control",
+            "female:netorare",
+            "female:nipple fuck",
+            "female:nipple stimulation",
+            "female:nose hook",
+            "female:piercing",
+            "female:pregnant",
+            "female:prolapse",
+            "female:spanking",
+            "female:stomach deformation",
+            "female:tentacles",
+            "female:trampling",
+            "female:triple anal",
+            "female:urethra insertion",
+            "female:x-ray"
+        ]
+    },
+    {
         "[ウー] SiNiSistar2":[
             "male:monster",
             "female:big breasts",
@@ -11805,6 +11943,11 @@
         "●PIXIV● 愛須冷蔵 [7843004]":[]
     },
     {
+        "❤FANBOX❤  米獣 [5062519＆ beijuu]":[
+            "group:beicon"
+        ]
+    },
+    {
         "【てんてこ】キョンシーになった後輩【小孙汉化组】":[]
     },
     {
@@ -11921,178 +12064,62 @@
         ]
     },
     {
-        "[Momofes (Oki Nagomi, Buki)] Hebigamisama ni Miirarete 2 |  我被蛇神大人迷住了 2 [Chinese] [白杨汉化组] [Digital]":[
-            "language:translated",
-            "group:momofes",
-            "artist:oki nagomi",
-            "male:bite mark",
-            "male:multiple orgasms",
-            "male:nipple stimulation",
-            "male:sole male",
-            "female:ball sucking",
-            "female:big breasts",
-            "female:eye-covering bang",
-            "female:femdom",
-            "female:footjob",
-            "female:huge breasts",
-            "female:long tongue",
-            "female:monster girl",
-            "female:rimjob",
-            "female:saliva",
-            "female:snake girl",
-            "female:sole female",
-            "female:tall girl",
-            "female:unusual teeth"
-        ]
-    },
-    {
-        "[Annomike]Motto! Sewayaki❤Mesugaki Obaa-chan|更多！热心体贴❤小丫头大场妹妹(COMIC Kaien VOL.21) [Chinese] [常熟硬汉化组] [Digital]":[
-            "language:translated",
-            "male:glasses",
-            "male:sole male",
-            "female:ponytail",
-            "female:schoolgirl uniform",
-            "female:sole female",
-            "female:tanlines"
-        ]
-    },
-    {
-        "[アヘ丸] Fantia+Patreon作品汉化合集 [cheems个人汉化]":[
-            "language:translated",
-            "parody:dragon ball",
-            "parody:hololive",
-            "parody:kimetsu no yaiba",
-            "parody:kono subarashii sekai ni syukufuku o",
-            "parody:monster hunter",
-            "parody:naruto",
-            "parody:pokemon",
-            "parody:sousou no frieren",
-            "parody:touhou project",
-            "character:2b",
-            "character:android 18",
-            "character:ash ketchum",
-            "character:frieren",
-            "character:hana uzaki",
-            "character:ilulu",
-            "character:kallen stadtfeld",
-            "character:kyoka jiro",
-            "character:makima",
-            "character:minoto",
-            "character:mitsuki bakugou",
-            "character:momo yaoyorozu",
-            "character:naoto shirogane",
-            "character:patchouli knowledge",
-            "character:rumi usagiyama",
-            "character:sailor moon",
-            "character:sanae kochiya",
-            "character:shouko komi",
-            "character:tifa lockhart",
-            "character:wiz",
-            "artist:ahemaru",
-            "male:smalldom",
-            "male:smegma",
-            "female:ahegao",
-            "female:all the way through",
+        "[Oninarasu] Tsukino (Yakitate!! Japan) [Chinese]":[
+            "parody:yakitate japan",
+            "artist:oninarasu",
+            "male:bbm",
+            "male:old man",
             "female:anal",
-            "female:anal prolapse",
-            "female:armpit licking",
-            "female:bbw",
-            "female:big areolae",
-            "female:big breasts",
-            "female:big nipples",
+            "female:anal intercourse",
             "female:blowjob",
-            "female:blowjob face",
-            "female:body modification",
-            "female:bondage",
-            "female:cervix prolapse",
-            "female:clit stimulation",
-            "female:corruption",
-            "female:deepthroat",
-            "female:double penetration",
-            "female:eggs",
-            "female:emotionless sex",
-            "female:exhibitionism",
-            "female:fisting",
-            "female:gaping",
-            "female:gokkun",
-            "female:gyaru",
-            "female:hidden sex",
-            "female:huge breasts",
-            "female:impregnation",
-            "female:inverted nipples",
-            "female:kissing",
-            "female:lactation",
-            "female:leotard",
-            "female:milf",
-            "female:mind control",
-            "female:netorare",
-            "female:nipple fuck",
-            "female:nipple stimulation",
-            "female:nose hook",
-            "female:piercing",
-            "female:pregnant",
-            "female:prolapse",
-            "female:spanking",
-            "female:stomach deformation",
-            "female:tentacles",
-            "female:trampling",
-            "female:triple anal",
-            "female:urethra insertion",
-            "female:x-ray"
+            "female:prostitution",
+            "female:sole female",
+            "female:very long hair"
         ]
     },
     {
-        "(C106) [SKK (Syoukaki)] HOLIDAY WITH… (GIRLS' FRONTLINE 2: EXILIUM) [Chinese] [欶澜汉化组]":[
-            "language:translated",
-            "character:springfield",
-            "artist:syoukaki",
+        "[Oninarasu] EMT (Re:Zero kara Hajimeru Isekai Seikatsu) [Chinese]":[
+            "artist:oninarasu",
+            "male:bbm",
+            "male:dilf",
             "male:sole male",
+            "female:impregnation",
             "female:nakadashi",
             "female:sole female"
         ]
     },
     {
-        "Kyuta/きゅうた misc (fanbox)":[
-            "artist:kyuuta",
-            "female:insect",
-            "female:parasite",
-            "female:tentacles",
-            "female:x-ray"
-        ]
-    },
-    {
-        "❤FANBOX❤  米獣 [5062519＆ beijuu]":[
-            "parody:girls frontline",
-            "group:beicon"
-        ]
-    },
-    {
-        "(FF34) [Kuyou] Hakudaku Shita Kokoro de Some (Girls' Frontline) [Chinese]":[
-            "parody:girls frontline",
-            "artist:kuyou",
-            "male:condom",
-            "female:mind break",
-            "female:nakadashi",
-            "female:netorare",
-            "female:stockings",
-            "female:twintails"
-        ]
-    },
-    {
-        "(C96) [Beicon (Beijuu)] Anzen Souchi no Nai Juu | 保險裝置已解除 (Girls' Frontline) [Chinese] [千岁汉化组]":[
-            "language:translated",
-            "character:shikikan",
-            "group:beicon",
+        "[少女喫茶-KeyTail-]メスガキ義妹 負け負け誘惑性活":[
             "male:sole male",
-            "female:bikini",
-            "female:domination loss",
-            "female:femdom",
-            "female:high heels",
-            "female:pantyhose",
-            "female:small breasts",
+            "female:blowjob",
+            "female:handjob",
+            "female:nakadashi",
+            "female:sister",
             "female:sole female",
             "female:stockings",
-            "female:swimsuit"
+            "other:full censorship"
+        ]
+    },
+    {
+        "(C96) [Nhoooooooooooooo (Oosawara Sadao, Zikataro, Anon 2-okunen)] KonoSuba Goudoushi! (Kono Subarashii Sekai ni Syukufuku o!) [Chinese] [天煌汉化组]":[
+            "language:translated",
+            "character:aqua",
+            "character:megumin",
+            "artist:anon 2-okunen",
+            "artist:zikataro",
+            "male:dark skin",
+            "male:smegma",
+            "male:smell",
+            "female:ahegao",
+            "female:blowjob",
+            "female:collar",
+            "female:leash",
+            "female:mind control",
+            "female:netorare",
+            "female:ponytail",
+            "female:prostitution",
+            "female:stockings",
+            "other:goudoushi"
         ]
     }
 ]

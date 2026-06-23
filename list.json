@@ -554,9 +554,7 @@
         "female:x-ray"
     ],
     "(C106) [SKK (Syoukaki)] HOLIDAY WITH… (GIRLS' FRONTLINE 2: EXILIUM) [Chinese] [欶澜汉化组]":[
-        "language:translated",
         "character:springfield",
-        "artist:syoukaki",
         "male:sole male",
         "female:nakadashi",
         "female:sole female"
@@ -674,7 +672,6 @@
         "female:stockings"
     ],
     "(C89) [Hirahira (Hirari)] Koisuru Dorei-chan - Silvi is falling in love with you | 戀愛中的奴隸醬 (Dorei to no Seikatsu -Teaching Feeling-) [Chinese] [無毒漢化組] [Decensored]":[
-        "character:sylvie",
         "male:sole male",
         "female:lolicon",
         "female:scar",
@@ -858,9 +855,7 @@
         "female:stockings"
     ],
     "(C96) [Beicon (Beijuu)] Anzen Souchi no Nai Juu | 保險裝置已解除 (Girls' Frontline) [Chinese] [千岁汉化组]":[
-        "language:translated",
         "character:shikikan",
-        "group:beicon",
         "male:sole male",
         "female:bikini",
         "female:domination loss",
@@ -871,6 +866,26 @@
         "female:sole female",
         "female:stockings",
         "female:swimsuit"
+    ],
+    "(C96) [Nhoooooooooooooo (Oosawara Sadao, Zikataro, Anon 2-okunen)] KonoSuba Goudoushi! (Kono Subarashii Sekai ni Syukufuku o!) [Chinese] [天煌汉化组]":[
+        "language:translated",
+        "character:aqua",
+        "character:megumin",
+        "artist:anon 2-okunen",
+        "artist:zikataro",
+        "male:dark skin",
+        "male:smegma",
+        "male:smell",
+        "female:ahegao",
+        "female:blowjob",
+        "female:collar",
+        "female:leash",
+        "female:mind control",
+        "female:netorare",
+        "female:ponytail",
+        "female:prostitution",
+        "female:stockings",
+        "other:goudoushi"
     ],
     "(C96) [OrangeMaru (YD)] Chaldea Maid #Mash (Fate/Grand Order) [Chinese] [空気系☆漢化] [Decensored]":[
         "male:sole male",
@@ -1108,7 +1123,6 @@
         "female:sole female"
     ],
     "(FF34) [Kuyou] Hakudaku Shita Kokoro de Some (Girls' Frontline) [Chinese]":[
-        "parody:girls frontline",
         "artist:kuyou",
         "male:condom",
         "female:mind break",
@@ -1241,9 +1255,7 @@
         "female:sole female"
     ],
     "(SC2016 Winter) [Hirahira (Hirari)] Dorei-chan to no Saisho no Hanashi - The first story with silvi (Dorei to no Seikatsu -Teaching Feeling-) [Chinese] [反正整个汉化组就老子一人汉化组]":[
-        "language:translated",
         "character:sylvie",
-        "artist:hirari",
         "male:sole male",
         "female:scar",
         "female:sole female",
@@ -1380,7 +1392,6 @@
     ],
     "Imigimuru ART WORKS fruits [Digital]":[],
     "Kyuta/きゅうた misc (fanbox)":[
-        "artist:kyuuta",
         "female:insect",
         "female:parasite",
         "female:tentacles",
@@ -1794,7 +1805,6 @@
         "female:tomboy"
     ],
     "[Annomike]Motto! Sewayaki❤Mesugaki Obaa-chan|更多！热心体贴❤小丫头大场妹妹(COMIC Kaien VOL.21) [Chinese] [常熟硬汉化组] [Digital]":[
-        "language:translated",
         "male:glasses",
         "male:sole male",
         "female:ponytail",
@@ -2055,7 +2065,6 @@
         "female:yuri"
     ],
     "[Boole] Time Loop de Kaihatsu Sareru Sister [Chinese] [Decensored]":[
-        "artist:boole",
         "male:sole male",
         "female:ahegao",
         "female:big breasts",
@@ -5775,9 +5784,7 @@
         "female:sole female"
     ],
     "[Momofes (Oki Nagomi, Buki)] Hebigamisama ni Miirarete 2 |  我被蛇神大人迷住了 2 [Chinese] [白杨汉化组] [Digital]":[
-        "language:translated",
         "group:momofes",
-        "artist:oki nagomi",
         "male:bite mark",
         "male:multiple orgasms",
         "male:nipple stimulation",
@@ -6092,7 +6099,6 @@
         "female:sole female"
     ],
     "[Naizou Kenkyuujyo (Yasashii Naizou)] Downer Kenkyuusha Onee-san ni Onegai shite Ecchi na Koto shite Morau Hanashi. [Chinese] [鈽鐳鉻銻]":[
-        "artist:yasashii naizou",
         "female:blowjob",
         "female:hairy",
         "female:handjob",
@@ -6825,7 +6831,6 @@
         "female:very long hair"
     ],
     "[Oninarasu] EMT (NTR 1 - 4 & Extras)(2/19/2026)(Re: Zero kara Hajimeru Isekai Seikatsu)":[
-        "character:emilia",
         "artist:oninarasu",
         "male:bbm",
         "male:dark skin",
@@ -6864,8 +6869,29 @@
         "female:thigh high boots",
         "female:very long hair"
     ],
+    "[Oninarasu] EMT (Re:Zero kara Hajimeru Isekai Seikatsu) [Chinese]":[
+        "artist:oninarasu",
+        "male:bbm",
+        "male:dilf",
+        "male:sole male",
+        "female:impregnation",
+        "female:nakadashi",
+        "female:sole female"
+    ],
     "[Oninarasu] Emilia (Re:Zero kara Hajimeru Isekai Seikatsu)":[
         "female:sole female"
+    ],
+    "[Oninarasu] Tsukino (Yakitate!! Japan) [Chinese]":[
+        "parody:yakitate japan",
+        "artist:oninarasu",
+        "male:bbm",
+        "male:old man",
+        "female:anal",
+        "female:anal intercourse",
+        "female:blowjob",
+        "female:prostitution",
+        "female:sole female",
+        "female:very long hair"
     ],
     "[Oomaga no Mori (Sukezou)] Oji-san o Okari Shimasu   JS Nakayoshi Undoukai | 暂时借用一下大叔❤ - JⓈ相亲相爱运动会 [Chinese] [白杨汉化组] [Digital]":[
         "male:dark skin",
@@ -10149,37 +10175,21 @@
         "female:kemonomimi"
     ],
     "[アヘ丸] Fantia+Patreon作品汉化合集 [cheems个人汉化]":[
-        "language:translated",
         "parody:dragon ball",
-        "parody:hololive",
         "parody:kimetsu no yaiba",
-        "parody:kono subarashii sekai ni syukufuku o",
         "parody:monster hunter",
-        "parody:naruto",
         "parody:pokemon",
-        "parody:sousou no frieren",
         "parody:touhou project",
-        "character:2b",
         "character:android 18",
-        "character:ash ketchum",
         "character:frieren",
-        "character:hana uzaki",
         "character:ilulu",
-        "character:kallen stadtfeld",
         "character:kyoka jiro",
-        "character:makima",
         "character:minoto",
-        "character:mitsuki bakugou",
         "character:momo yaoyorozu",
-        "character:naoto shirogane",
         "character:patchouli knowledge",
-        "character:rumi usagiyama",
         "character:sailor moon",
-        "character:sanae kochiya",
         "character:shouko komi",
-        "character:tifa lockhart",
         "character:wiz",
-        "artist:ahemaru",
         "male:smalldom",
         "male:smegma",
         "female:ahegao",
@@ -10280,6 +10290,16 @@
         "female:lolicon",
         "female:sole female"
     ],
+    "[少女喫茶-KeyTail-]メスガキ義妹 負け負け誘惑性活":[
+        "male:sole male",
+        "female:blowjob",
+        "female:handjob",
+        "female:nakadashi",
+        "female:sister",
+        "female:sole female",
+        "female:stockings",
+        "other:full censorship"
+    ],
     "[弥美津峠 (鳳まひろ)] 性的好奇心 〜羞恥で膣濡れハーレム実習〜 [DL版]":[
         "female:big breasts",
         "female:elf",
@@ -10358,7 +10378,6 @@
     ],
     "●PIXIV● 愛須冷蔵 [7843004]":[],
     "❤FANBOX❤  米獣 [5062519＆ beijuu]":[
-        "parody:girls frontline",
         "group:beicon"
     ],
     "【てんてこ】キョンシーになった後輩【小孙汉化组】":[],
