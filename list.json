@@ -554,7 +554,6 @@
         "female:x-ray"
     ],
     "(C106) [SKK (Syoukaki)] HOLIDAY WITH… (GIRLS' FRONTLINE 2: EXILIUM) [Chinese] [欶澜汉化组]":[
-        "character:springfield",
         "male:sole male",
         "female:nakadashi",
         "female:sole female"
@@ -855,7 +854,6 @@
         "female:stockings"
     ],
     "(C96) [Beicon (Beijuu)] Anzen Souchi no Nai Juu | 保險裝置已解除 (Girls' Frontline) [Chinese] [千岁汉化组]":[
-        "character:shikikan",
         "male:sole male",
         "female:bikini",
         "female:domination loss",
@@ -868,11 +866,8 @@
         "female:swimsuit"
     ],
     "(C96) [Nhoooooooooooooo (Oosawara Sadao, Zikataro, Anon 2-okunen)] KonoSuba Goudoushi! (Kono Subarashii Sekai ni Syukufuku o!) [Chinese] [天煌汉化组]":[
-        "language:translated",
         "character:aqua",
-        "character:megumin",
         "artist:anon 2-okunen",
-        "artist:zikataro",
         "male:dark skin",
         "male:smegma",
         "male:smell",
@@ -884,8 +879,7 @@
         "female:netorare",
         "female:ponytail",
         "female:prostitution",
-        "female:stockings",
-        "other:goudoushi"
+        "female:stockings"
     ],
     "(C96) [OrangeMaru (YD)] Chaldea Maid #Mash (Fate/Grand Order) [Chinese] [空気系☆漢化] [Decensored]":[
         "male:sole male",
@@ -1123,7 +1117,6 @@
         "female:sole female"
     ],
     "(FF34) [Kuyou] Hakudaku Shita Kokoro de Some (Girls' Frontline) [Chinese]":[
-        "artist:kuyou",
         "male:condom",
         "female:mind break",
         "female:nakadashi",
@@ -1255,7 +1248,6 @@
         "female:sole female"
     ],
     "(SC2016 Winter) [Hirahira (Hirari)] Dorei-chan to no Saisho no Hanashi - The first story with silvi (Dorei to no Seikatsu -Teaching Feeling-) [Chinese] [反正整个汉化组就老子一人汉化组]":[
-        "character:sylvie",
         "male:sole male",
         "female:scar",
         "female:sole female",
@@ -5784,7 +5776,6 @@
         "female:sole female"
     ],
     "[Momofes (Oki Nagomi, Buki)] Hebigamisama ni Miirarete 2 |  我被蛇神大人迷住了 2 [Chinese] [白杨汉化组] [Digital]":[
-        "group:momofes",
         "male:bite mark",
         "male:multiple orgasms",
         "male:nipple stimulation",
@@ -6831,7 +6822,6 @@
         "female:very long hair"
     ],
     "[Oninarasu] EMT (NTR 1 - 4 & Extras)(2/19/2026)(Re: Zero kara Hajimeru Isekai Seikatsu)":[
-        "artist:oninarasu",
         "male:bbm",
         "male:dark skin",
         "male:low shotacon",
@@ -6870,7 +6860,6 @@
         "female:very long hair"
     ],
     "[Oninarasu] EMT (Re:Zero kara Hajimeru Isekai Seikatsu) [Chinese]":[
-        "artist:oninarasu",
         "male:bbm",
         "male:dilf",
         "male:sole male",
@@ -6882,7 +6871,6 @@
         "female:sole female"
     ],
     "[Oninarasu] Tsukino (Yakitate!! Japan) [Chinese]":[
-        "parody:yakitate japan",
         "artist:oninarasu",
         "male:bbm",
         "male:old man",
@@ -10175,21 +10163,13 @@
         "female:kemonomimi"
     ],
     "[アヘ丸] Fantia+Patreon作品汉化合集 [cheems个人汉化]":[
-        "parody:dragon ball",
         "parody:kimetsu no yaiba",
-        "parody:monster hunter",
         "parody:pokemon",
-        "parody:touhou project",
         "character:android 18",
-        "character:frieren",
         "character:ilulu",
-        "character:kyoka jiro",
         "character:minoto",
-        "character:momo yaoyorozu",
         "character:patchouli knowledge",
-        "character:sailor moon",
         "character:shouko komi",
-        "character:wiz",
         "male:smalldom",
         "male:smegma",
         "female:ahegao",
@@ -10297,8 +10277,7 @@
         "female:nakadashi",
         "female:sister",
         "female:sole female",
-        "female:stockings",
-        "other:full censorship"
+        "female:stockings"
     ],
     "[弥美津峠 (鳳まひろ)] 性的好奇心 〜羞恥で膣濡れハーレム実習〜 [DL版]":[
         "female:big breasts",
@@ -10377,9 +10356,7 @@
         "female:very long hair"
     ],
     "●PIXIV● 愛須冷蔵 [7843004]":[],
-    "❤FANBOX❤  米獣 [5062519＆ beijuu]":[
-        "group:beicon"
-    ],
+    "❤FANBOX❤  米獣 [5062519＆ beijuu]":[],
     "【てんてこ】キョンシーになった後輩【小孙汉化组】":[],
     "このすば (Kono Subarashii Sekai ni Syukufuku o!)":[
         "male:sole male",
