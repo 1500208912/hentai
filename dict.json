@@ -1509,7 +1509,6 @@
     },
     {
         "(SC2019 Autumn) [Nigatsu no Santousei (Asaka)] You'll Make Me iLL (Girls' Frontline) [Chinese] [大受气包烤RO组汉化]":[
-            "character:negev",
             "male:sole male",
             "female:blowjob",
             "female:nakadashi",
@@ -2995,7 +2994,6 @@
     },
     {
         "[Dallim] AK-12":[
-            "artist:dallim",
             "female:bestiality",
             "female:big breasts",
             "female:footjob",
@@ -3009,7 +3007,6 @@
     },
     {
         "[Dallim] SVD X Horse [耄耋個人漢化]":[
-            "character:svd",
             "male:chastity belt",
             "male:horse",
             "male:humiliation",
@@ -3993,7 +3990,6 @@
     },
     {
         "[F no Kottoubako (Onizuka Frill)] Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~ [Chinese] [4階B室の貴族]":[
-            "artist:onizuka frill",
             "male:bbm",
             "male:sole male",
             "female:beauty mark",
@@ -4681,32 +4677,26 @@
     },
     {
         "[HUQU] Archi-Gager part 1-2 (Girls Frontline) [Chinese] [Decensored] [AKwoL烤肉组]":[
-            "artist:huqu",
             "female:double penetration",
             "female:futanari",
             "female:sex toys"
         ]
     },
     {
-        "[HUQU] DEFY Bikini (Girls Frontline) [Chinese] [AKwoL烤肉组] [Decensored]":[
-            "artist:huqu"
-        ]
+        "[HUQU] DEFY Bikini (Girls Frontline) [Chinese] [AKwoL烤肉组] [Decensored]":[]
     },
     {
         "[HUQU] Patreon 2020.01-2020.12 (Girls Frontline) [Chinese] [Decensored] [AKwoL烤肉组]":[
-            "artist:huqu",
             "female:futanari"
         ]
     },
     {
         "[HUQU] Pregnancy part1 [Chinese] [Decensored] [AKwoL烤肉组]":[
-            "artist:huqu",
             "female:sex toys"
         ]
     },
     {
         "[HUQU] Sex Position part1-3 (Girls Frontline) [Chinese] [Decensored] [AKwoL烤肉组]":[
-            "artist:huqu",
             "female:anal intercourse",
             "female:females only",
             "female:futanari"
@@ -6516,6 +6506,23 @@
         ]
     },
     {
+        "[Kyaradain] Mai Birabudo Doggu Zenpen+Kouhen | 我心爱的狗狗 前篇+后篇 [Chinese] [Sky110036个人汉化] [Digital]":[
+            "male:shotacon",
+            "male:sole male",
+            "male:virginity",
+            "female:bisexual",
+            "female:defloration",
+            "female:filming",
+            "female:kissing",
+            "female:lolicon",
+            "female:nakadashi",
+            "female:randoseru",
+            "female:sumata",
+            "female:sweating",
+            "female:tanlines"
+        ]
+    },
+    {
         "[Kyaradain] Onsen ni Ikou! | 我们去泡温泉吧! (COMIC LO 2025-06) [Chinese] [Sky110036个人汉化] [Digital]":[
             "male:muscle",
             "male:sole male",
@@ -7228,6 +7235,31 @@
         ]
     },
     {
+        "[Momojiru Teien (Momokumo)] Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara, Ikioi de 3P suru Koto ni Natta Hanashi~ | 美术部后宫活动日记 ～协助学姐克服困难走出创作瓶颈之后，顺势享受齐人之福的故事～ [Chinese] [暴碧汉化组] [Digital]":[
+            "group:momojiru teien",
+            "male:schoolboy uniform",
+            "male:sole male",
+            "female:ahegao",
+            "female:beauty mark",
+            "female:big breasts",
+            "female:blowjob",
+            "female:bukkake",
+            "female:cum swap",
+            "female:defloration",
+            "female:fingering",
+            "female:glasses",
+            "female:hairy",
+            "female:harem",
+            "female:multimouth blowjob",
+            "female:nakadashi",
+            "female:schoolgirl uniform",
+            "female:squirting",
+            "female:stockings",
+            "female:voyeurism",
+            "female:x-ray"
+        ]
+    },
+    {
         "[Momojiru Teien (Momokumo)] Kunikida Senpai no Kakushigoto | 国木田学姐的隐瞒之事 [Chinese] [暴碧汉化组×刀刃汉化组] [Digital]":[
             "male:schoolboy uniform",
             "male:sole male",
@@ -7811,6 +7843,21 @@
             "female:small breasts",
             "female:sole female",
             "female:twintails"
+        ]
+    },
+    {
+        "[Nikubou Maranoshin] August 32nd (COMIC Kairakuten 2026-02) [Chinese] [死兆修会] [Digital]":[
+            "male:shotacon",
+            "male:sole male",
+            "male:virginity",
+            "female:bloomers",
+            "female:femdom",
+            "female:hairy",
+            "female:nakadashi",
+            "female:pixie cut",
+            "female:sole female",
+            "female:tanlines",
+            "female:tomboy"
         ]
     },
     {
@@ -8934,9 +8981,7 @@
     },
     {
         "[Pixiv] 鬼鳴らす(真理探求者) (1284629) 2026.03.16":[
-            "parody:mushoku tensei",
             "parody:working",
-            "character:fern",
             "character:roxy migurdia",
             "male:bbm",
             "male:condom",
@@ -12670,66 +12715,79 @@
         ]
     },
     {
-        "[Kyaradain] Mai Birabudo Doggu Zenpen+Kouhen | 我心爱的狗狗 前篇+后篇 [Chinese] [Sky110036个人汉化] [Digital]":[
+        "[Ominaeshi/Ominan] Konna Osananajimi ga Ite hoshii Variants (Sabun) | 想要这样的青梅竹马差分 [Chinese] [Adoscc 個人翻訳]":[
             "language:translated",
-            "male:shotacon",
-            "male:sole male",
-            "male:virginity",
-            "female:bisexual",
-            "female:defloration",
-            "female:filming",
-            "female:kissing",
-            "female:lolicon",
-            "female:nakadashi",
-            "female:randoseru",
-            "female:sumata",
-            "female:sweating",
-            "female:tanlines",
-            "other:kodomo only"
-        ]
-    },
-    {
-        "[Nikubou Maranoshin] August 32nd (COMIC Kairakuten 2026-02) [Chinese] [死兆修会] [Digital]":[
-            "language:translated",
-            "male:shotacon",
-            "male:sole male",
-            "male:virginity",
-            "female:bloomers",
-            "female:femdom",
-            "female:hairy",
-            "female:nakadashi",
-            "female:pixie cut",
-            "female:sole female",
-            "female:tanlines",
-            "female:tomboy",
-            "location:beach"
-        ]
-    },
-    {
-        "[Momojiru Teien (Momokumo)] Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara, Ikioi de 3P suru Koto ni Natta Hanashi~ | 美术部后宫活动日记 ～协助学姐克服困难走出创作瓶颈之后，顺势享受齐人之福的故事～ [Chinese] [暴碧汉化组] [Digital]":[
-            "language:translated",
-            "group:momojiru teien",
-            "male:schoolboy uniform",
-            "male:sole male",
-            "female:ahegao",
-            "female:beauty mark",
-            "female:big breasts",
+            "artist:tachibana omina",
+            "female:apron",
             "female:blowjob",
-            "female:bukkake",
-            "female:cum swap",
-            "female:defloration",
-            "female:fingering",
-            "female:glasses",
-            "female:hairy",
-            "female:harem",
-            "female:multimouth blowjob",
-            "female:nakadashi",
+            "female:bondage",
+            "female:breast feeding",
+            "female:clothed paizuri",
+            "female:collar",
+            "female:handjob",
+            "female:maid",
+            "female:nipple stimulation",
+            "female:paizuri",
+            "female:pantyhose",
+            "female:school swimsuit",
             "female:schoolgirl uniform",
-            "female:squirting",
             "female:stockings",
-            "female:voyeurism",
-            "female:x-ray",
-            "mixed:group"
+            "female:sumata",
+            "female:swimsuit"
+        ]
+    },
+    {
+        "(2023AGA) [Zen] Han She Kong Syuehjieh De Shejiao (SEX) Moni [Chinese]":[
+            "parody:original",
+            "male:sole male",
+            "female:beauty mark",
+            "female:defloration",
+            "female:drunk",
+            "female:glasses",
+            "female:gymshorts",
+            "female:sole female",
+            "other:watermarked"
+        ]
+    },
+    {
+        "[HUQU] breakfast (Girls Frontline) [Chinese] [Decensored] [AKwoL烤肉组]":[
+            "language:translated",
+            "artist:huqu",
+            "female:dickgirl on female",
+            "female:futanari",
+            "female:sex toys"
+        ]
+    },
+    {
+        "[HUQU] HK416 x M16 (Girls Frontline) [Chinese] [Decensored] [AKwoL烤肉组]":[
+            "language:translated",
+            "character:hk416",
+            "artist:huqu",
+            "female:futanari",
+            "female:sex toys",
+            "female:unusual insertions"
+        ]
+    },
+    {
+        "[HUQU] Crazy dog 2 (Girls Frontline) [Chinese] [沒有漢化]":[
+            "language:translated",
+            "artist:huqu",
+            "female:cervix penetration",
+            "female:females only",
+            "female:fisting",
+            "female:sex toys",
+            "female:yuri"
+        ]
+    },
+    {
+        "[Huqu] Kalina's Secret Store Part 2 (Girls' Frontline)[Chinese]":[
+            "parody:girls frontline",
+            "character:an-94",
+            "female:fft threesome",
+            "female:futanari",
+            "female:group",
+            "female:ponytail",
+            "female:sex toys"
         ]
     }
 ]
