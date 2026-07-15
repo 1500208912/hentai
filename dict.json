@@ -1619,9 +1619,7 @@
     },
     {
         "COMIC BAVEL 2026-04 [Chinese] [Decensored] [Digital]":[
-            "artist:darkmaya",
             "artist:negito ron",
-            "artist:shimizu daigorou",
             "artist:yamada yuuya",
             "male:dilf",
             "male:glasses",
@@ -5253,7 +5251,6 @@
     },
     {
         "[Horumon Curry (Tobimura)] Hangyaku Onsen 4 (Girls' Frontline) [Chinese] [Decensored] [Digital]":[
-            "character:ak-15",
             "male:multiple orgasms",
             "male:sole male",
             "female:big breasts",
@@ -5953,8 +5950,7 @@
             "female:oppai loli",
             "female:pantyhose",
             "female:pregnant",
-            "female:stockings",
-            "other:multi-work series"
+            "female:stockings"
         ]
     },
     {
@@ -6058,8 +6054,7 @@
             "female:swimsuit",
             "female:tanlines",
             "female:witch",
-            "female:x-ray",
-            "location:beach"
+            "female:x-ray"
         ]
     },
     {
@@ -10866,7 +10861,6 @@
     },
     {
         "[Tobimura] AK-12の 進捗2 (Girls' Frontline) [Chinese] [大受气包烤RO组汉化]":[
-            "character:ak-12",
             "male:sole male",
             "female:sole female",
             "female:very long hair"
@@ -10874,7 +10868,6 @@
     },
     {
         "[Tobimura]AK15の進捗2(Girls' Frontline)[Chinese][大受气包烤RO组汉化]":[
-            "character:ak-15",
             "female:eye-covering bang",
             "female:maid",
             "female:rimjob",
@@ -12972,6 +12965,37 @@
     {
         "［SigMa］クール系後輩店員さんはちょろいです。［酸菜魚ゅ°个人汉化］":[
             "male:first person perspective",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Bruto] Saimin Shihai sareta Roswaal-tei  ~Zenin Netorare Haramase~ | 被催眠支配的罗兹瓦尔宅邸～全员NTR・怀孕～ (Re:Zero kara Hajimeru Isekai Seikatsu)  [Chinese] [MTL]    [AI Generated]":[
+            "language:translated",
+            "character:emilia",
+            "character:rem",
+            "male:bald",
+            "male:bbm",
+            "male:sole male",
+            "female:elf",
+            "female:eye-covering bang",
+            "female:harem",
+            "female:impregnation",
+            "female:maid",
+            "female:mind control",
+            "female:netorare",
+            "female:pregnant",
+            "female:stockings",
+            "other:mosaic censorship"
+        ]
+    },
+    {
+        "(C107) [Natsuzame] Zhuo o Mechakucha ni Shite!! | 请尽情蹂躏灼吧…!! (Fate/Grand Order) [Chinese] [月美汉化组]":[
+            "language:translated",
+            "character:gudao",
+            "artist:natsuzame",
+            "male:sole male",
+            "female:bunny girl",
+            "female:kemonomimi",
             "female:sole female"
         ]
     }
