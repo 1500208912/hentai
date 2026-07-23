@@ -2460,8 +2460,7 @@
             "female:twintails",
             "female:unusual pupils",
             "female:very long hair",
-            "female:x-ray",
-            "other:uncensored"
+            "female:x-ray"
         ]
     },
     {
@@ -7837,7 +7836,6 @@
     },
     {
         "[Nameraka Seinikuten (kamasu)] Binkan Jimiko wa Iki zurai!!! [Chinese] [白杨汉化组]":[
-            "group:yawaraka seinikuten",
             "male:business suit",
             "male:sole male",
             "female:big breasts",
@@ -9872,6 +9870,25 @@
         ]
     },
     {
+        "[Shigure Ebi (LeftHand)] Boukensha-chan to Ecchi na Bouken 2 [Chinese] [かしよ] [Digital]":[
+            "group:shigure ebi",
+            "male:dog",
+            "male:horse",
+            "female:anal",
+            "female:bestiality",
+            "female:double penetration",
+            "female:futanari",
+            "female:impregnation",
+            "female:incest",
+            "female:low bestiality",
+            "female:mother",
+            "female:pregnant",
+            "female:rape",
+            "female:stockings",
+            "female:vaginal birth"
+        ]
+    },
+    {
         "[Shigure Ebi (LeftHand)] Boukensha-chan to Ecchi na Bouken 3 | 冒险者小姐和色色的冒险3 [Chinese] [白杨汉化组] [Digital]":[
             "female:anal",
             "female:blowjob",
@@ -10849,8 +10866,7 @@
             "female:tentacles",
             "female:thigh high boots",
             "female:trampling",
-            "female:twintails",
-            "other:mosaic censorship"
+            "female:twintails"
         ]
     },
     {
@@ -13285,23 +13301,72 @@
         ]
     },
     {
-        "[Shigure Ebi (LeftHand)] Boukensha-chan to Ecchi na Bouken 2 [Chinese] [かしよ] [Digital]":[
+        "[Kase Daiki] Fanbox短篇合集 t1-t38 [Uncenseored] [Chinese] [天帝哥個人漢化]":[
             "language:translated",
-            "group:shigure ebi",
-            "male:dog",
-            "male:horse",
+            "male:condom",
+            "male:first person perspective",
             "female:anal",
-            "female:bestiality",
+            "female:anal intercourse",
+            "female:apron",
+            "female:armpit licking",
+            "female:beauty mark",
+            "female:big ass",
+            "female:big breasts",
+            "female:blowjob",
+            "female:bondage",
+            "female:christmas",
+            "female:collar",
             "female:double penetration",
-            "female:futanari",
-            "female:impregnation",
-            "female:incest",
-            "female:low bestiality",
-            "female:mother",
-            "female:pregnant",
-            "female:rape",
+            "female:exhibitionism",
+            "female:exposed clothing",
+            "female:facesitting",
+            "female:filming",
+            "female:fishnets",
+            "female:hair buns",
+            "female:hairy",
+            "female:high heels",
+            "female:horns",
+            "female:kemonomimi",
+            "female:kimono",
+            "female:leash",
+            "female:maid",
+            "female:miko",
+            "female:milf",
+            "female:mouth mask",
+            "female:nakadashi",
+            "female:netorare",
+            "female:nurse",
+            "female:paizuri",
+            "female:pantyhose",
+            "female:pasties",
+            "female:policewoman",
+            "female:ponytail",
+            "female:school gym uniform",
+            "female:schoolgirl uniform",
+            "female:sister",
             "female:stockings",
-            "female:vaginal birth"
+            "female:sweating",
+            "female:swimsuit",
+            "female:tabi socks",
+            "female:tanlines",
+            "female:teacher",
+            "female:triple penetration",
+            "female:twintails",
+            "female:unusual pupils",
+            "female:urination",
+            "female:x-ray",
+            "mixed:group",
+            "mixed:mmf threesome"
+        ]
+    },
+    {
+        "(COMIC1☆15) [Camrism (Kito Sakeru)] Ueno-san wa Iresasetai! | 上野想讓我插個爽! (Ueno-san wa Bukiyou) [Chinese] [沒有漢化]":[
+            "language:translated",
+            "character:ueno",
+            "artist:kito sakeru",
+            "female:lolicon",
+            "female:sole female",
+            "female:twintails"
         ]
     }
 ]
