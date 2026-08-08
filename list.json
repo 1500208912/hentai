@@ -536,11 +536,8 @@
         "female:twintails"
     ],
     "(C105) [Miimui (Various)] ZARINSHIKO TTE ARIDESUKA? [Chinese]":[
-        "language:translated",
         "group:miimui",
-        "artist:healthyman",
         "artist:kanzarin",
-        "artist:sumiyao",
         "male:dilf",
         "female:blowjob",
         "female:collar",
@@ -622,6 +619,14 @@
         "female:nakadashi",
         "female:sole female",
         "female:very long hair"
+    ],
+    "(C107) [xyomouse (Gan)] Kakuu Shoujo GAME Girls [Chinese] [白杨汉化组]":[
+        "language:translated",
+        "group:xyomouse",
+        "female:females only",
+        "female:lolicon",
+        "female:sex toys",
+        "female:yuri"
     ],
     "(C79) [Asaki Blog Branch Office (Asaki Takayuki)] Love Urabe+ (Nazo no Kanojo X) [Chinese] [流浪貓·裏]":[
         "male:sole male",
@@ -3724,6 +3729,12 @@
         "female:twintails",
         "female:x-ray"
     ],
+    "[Fanbox] めだ太郎［酸菜魚ゅ°］":[
+        "language:translated",
+        "female:dark skin",
+        "female:maid",
+        "female:miko"
+    ],
     "[Fanbox] 愛須冷蔵 [icereizou]":[],
     "[Fanbox] ﾌﾞﾚｴﾄﾞ(2020.12.01 ~ 2024.06.10)":[
         "female:anal",
@@ -3811,7 +3822,6 @@
         "female:sweating"
     ],
     "[Fantia] Mainichi Kenkou Seikatsu (Healthyman)（2022.07更新）":[
-        "parody:genshin impact",
         "male:bbm",
         "male:big penis",
         "female:blowjob",
@@ -4861,6 +4871,15 @@
         "female:small breasts",
         "female:sole female"
     ],
+    "[Inumajin] 青猫骑士摸不得 [Chinese] [zc2333]":[
+        "language:translated",
+        "artist:inumajin",
+        "male:human on furry",
+        "male:sole male",
+        "female:catgirl",
+        "female:furry",
+        "female:sole female"
+    ],
     "[Ishimiso] Heroine Koumon Choukyou  [hhh个人汉化] [Chinese]":[
         "male:big penis",
         "male:muscle",
@@ -5826,7 +5845,6 @@
         "female:very long hair"
     ],
     "[Kotorakku] Sono Seifuku o Mechakucha ni Shitai ~Oshiego to Hatsukoi Uwagaki Honki Sex Hen~ [Chinese] [山嵐个人汉化]":[
-        "language:translated",
         "artist:kotorakku",
         "male:teacher",
         "female:schoolgirl uniform",
@@ -6242,7 +6260,6 @@
         "female:yandere"
     ],
     "[Mainichi Kenkou Seikatsu (Healthyman)] Anoko wa Oji-san no Mesu [Chinese] [山樱汉化] [Decensored] [Digital]":[
-        "language:translated",
         "group:mainichi kenkou seikatsu",
         "male:bbm",
         "male:big penis",
@@ -6264,13 +6281,10 @@
         "female:spanking",
         "female:stockings",
         "female:stomach deformation",
-        "female:twintails",
-        "mixed:group"
+        "female:twintails"
     ],
     "[Mainichi Kenkou Seikatsu (Healthyman)] Idol to Issho ni Asobu dake no Kantan na Oshigoto desu. (THE IDOLM@STER CINDERELLA GIRLS) [English] [Tamamo] [Digital]":[
-        "language:translated",
         "character:miria akagi",
-        "group:mainichi kenkou seikatsu",
         "male:big penis",
         "male:bondage",
         "male:drugs",
@@ -6287,13 +6301,10 @@
         "female:stomach deformation",
         "female:twintails",
         "female:unusual pupils",
-        "female:yandere",
-        "mixed:group"
+        "female:yandere"
     ],
     "[Mainichi Kenkou Seikatsu (Healthyman)] Illya-chan o Kanzen Doui (Saimin) de Mama ni Suru Ero Hon (Fate/kaleid liner Prisma Illya) [Chinese] [SAN个人汉化] [Decensored] [Digital]":[
-        "language:translated",
         "character:illyasviel von einzbern",
-        "artist:healthyman",
         "male:bbm",
         "male:sole male",
         "female:ahegao",
@@ -6326,7 +6337,6 @@
         "female:sole female"
     ],
     "[Mainichi Kenkou Seikatsu (Healthyman)] JC Shiori-chan, Kuzu Oji ni Kawareru | JC小詩織被人渣大叔買下了 [Chinese] [山樱汉化] [Decensored] [Digital]":[
-        "language:translated",
         "group:mainichi kenkou seikatsu",
         "male:dilf",
         "male:sole male",
@@ -6334,11 +6344,9 @@
         "female:niece",
         "female:ponytail",
         "female:prostitution",
-        "female:sole female",
-        "other:uncensored"
+        "female:sole female"
     ],
     "[Mainichi Kenkou Seikatsu (Healthyman)] Suki na Ko ni Kokuhaku Shitara Hamedori Douga ga Okurarete Kita Hanashi [Chinese] [kagami重嵌] [Decensored] [Digital]":[
-        "language:translated",
         "group:mainichi kenkou seikatsu",
         "male:bald",
         "male:bbm",
@@ -6677,6 +6685,54 @@
         "female:monster girl",
         "female:nakadashi",
         "female:sole female"
+    ],
+    "[Mizu no Uro (Mizu no Zuko)] Kawarenai Bokura [Chinese] [甜族星人x我不看本子个人汉化]":[
+        "language:translated",
+        "group:mizu no uro",
+        "male:sole male",
+        "female:defloration",
+        "female:fingering",
+        "female:inverted nipples",
+        "female:nakadashi",
+        "female:pixie cut",
+        "female:sister",
+        "female:sole female",
+        "other:multi-work series"
+    ],
+    "[Mizu no Uro] Inaka Imouto to Muchi no Yuuwaku 2 | 乡村妹妹与纯真的诱惑2 [Chinese] [欶澜汉化组] [Decensored]":[
+        "language:translated",
+        "group:mizu no uro",
+        "male:condom",
+        "male:muscle",
+        "male:sole male",
+        "male:sweating",
+        "female:big breasts",
+        "female:blowjob",
+        "female:hidden sex",
+        "female:nakadashi",
+        "female:sister",
+        "female:sole female",
+        "female:sweating",
+        "female:x-ray",
+        "other:multi-work series",
+        "other:uncensored"
+    ],
+    "[Mizu no Uro] Inaka Imouto to Muchi no Yuuwaku | 乡村妹妹与纯真的诱惑 [Chinese] [欶澜汉化组] [Digital]":[
+        "language:translated",
+        "group:mizu no uro",
+        "male:eye-covering bang",
+        "male:muscle",
+        "male:sole male",
+        "female:big breasts",
+        "female:blowjob",
+        "female:defloration",
+        "female:nakadashi",
+        "female:paizuri",
+        "female:pixie cut",
+        "female:sister",
+        "female:sole female",
+        "female:x-ray",
+        "other:multi-work series"
     ],
     "[Momofes (Oki Nagomi, Buki)] Hebigamisama ni Miirarete 2 |  我被蛇神大人迷住了 2 [Chinese] [白杨汉化组] [Digital]":[
         "male:bite mark",
