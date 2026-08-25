@@ -549,6 +549,11 @@
         "female:stomach deformation",
         "female:vtuber"
     ],
+    "(C105) [Tamamushiiro (Various)] Haiboku  FrontlineGoudou MISSING DOLLS  (Girls' Frontline)":[
+        "character:ak-15",
+        "character:grizzly mkv",
+        "group:tamamushiiro"
+    ],
     "(C105) [Tori Salt (Nada Salt, Dexys)] Shoujo Baishun Jima Zenpen - Girl Prostitution Island [Chinese]":[
         "male:bbm",
         "male:dilf",
@@ -592,17 +597,19 @@
         "female:x-ray"
     ],
     "(C106) [MIGNON WORKS (mignon)] Nugi Onaka [Chinese] [神原祖母汉化组]":[
-        "language:translated",
         "group:mignon works",
         "female:beauty mark",
         "female:schoolgirl uniform",
-        "female:small breasts",
-        "other:full color"
+        "female:small breasts"
     ],
     "(C106) [SKK (Syoukaki)] HOLIDAY WITH… (GIRLS' FRONTLINE 2: EXILIUM) [Chinese] [欶澜汉化组]":[
         "male:sole male",
         "female:nakadashi",
         "female:sole female"
+    ],
+    "(C106) [Tamamushiiro (Various)] Haiboku  FrontlineGoudou Second MISSING DOLLS 2 (Girls' Frontline)":[
+        "group:tamamushiiro",
+        "female:rape"
     ],
     "(C107) [Dokudami (Okita Ababa)] Karen na Elf no Anoko ga Mitsuryousha no Ningen ni NTRreta Hanashi [Chinese] [人類太可惡漢化]":[
         "male:sole male",
@@ -611,6 +618,12 @@
         "female:nakadashi",
         "female:netorare",
         "female:sole female"
+    ],
+    "(C107) [Jikka Shoushitsu  Animation (Various)] DollFro GakuParo - DOLL'S FRONTLINE School AU parody Goudou Campus Frontline  (Girls' Frontline)":[
+        "character:hk416",
+        "character:ro635",
+        "character:springfield",
+        "artist:gto mason"
     ],
     "(C107) [Natsuzame] Zhuo o Mechakucha ni Shite!! | 请尽情蹂躏灼吧…!! (Fate/Grand Order) [Chinese] [月美汉化组]":[
         "male:sole male",
@@ -627,7 +640,6 @@
         "female:very long hair"
     ],
     "(C107) [squeezecandyheaven (Ichihaya)] Imouto wa Idol | 妹妹是偶像 [Chinese]":[
-        "language:translated",
         "group:squeeze candy heaven",
         "male:sole male",
         "female:lolicon",
@@ -1179,7 +1191,6 @@
         "female:double penetration"
     ],
     "(COMITIA156) [Chie no Genseki Azuse Kenkyuusho (Azuse)] Boku wa Suki ka Wakaranai. [Chinese] [UwU漢化]":[
-        "group:chie no genseki",
         "male:eye-covering bang",
         "male:sole male",
         "male:virginity",
@@ -1582,6 +1593,19 @@
         "female:tail",
         "female:twintails",
         "female:x-ray"
+    ],
+    "[4UU] Ura de wa Nakayoshi Tsundere-chan (Fate/Grand Order) [Chinese] [day个人汉化]":[
+        "language:translated",
+        "character:baobhan sith",
+        "character:morgan le fay",
+        "male:sole male",
+        "female:big breasts",
+        "female:impregnation",
+        "female:oyakodon",
+        "female:pregnant",
+        "female:very long hair",
+        "female:x-ray",
+        "mixed:group"
     ],
     "[54BURGER (Marugoshi)] Abydos Seito Zenin to Mizugi Ecchi suru Hon (Blue Archive) [Chinese] [颠佬旅者汉化组] [Digital]":[
         "male:sole male",
@@ -2289,9 +2313,7 @@
         "female:sole female"
     ],
     "[Beicon (Beijuu)] Girl's Frontline collection vol.02":[
-        "character:mosin-nagant",
-        "character:ump9",
-        "artist:beijuu"
+        "character:ump9"
     ],
     "[Black-Kitten] Tuesday Mornings | 周二早晨  [Chinese] [树莓曲奇汉化]":[
         "male:brother",
@@ -2391,7 +2413,6 @@
         "female:sole female"
     ],
     "[Chigui (Beijuu)] Keikyoku o Madowasu Hana | 荆棘的堕欲花瓣 [Chinese] [橙山个人汉化]":[
-        "artist:beijuu",
         "male:big penis",
         "male:goblin",
         "male:monster",
@@ -2781,6 +2802,24 @@
         "female:masturbation",
         "female:sole female"
     ],
+    "[Dai-kotetsu Dan (92M)] Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | 反差姐妹2:与闷骚姐姐的偏爱性交 [Chinese] [白杨汉化组] [Digital]":[
+        "language:translated",
+        "group:dai-kotetsu dan",
+        "male:schoolboy uniform",
+        "male:shotacon",
+        "male:sole male",
+        "female:big breasts",
+        "female:blowjob",
+        "female:glasses",
+        "female:kissing",
+        "female:masturbation",
+        "female:nakadashi",
+        "female:schoolgirl uniform",
+        "female:shimaidon",
+        "female:sister",
+        "mixed:group",
+        "other:multi-work series"
+    ],
     "[Daiji] Oniai - The Perfect Fit | 天生一對 [Chinese] [Decensored] [Digital]":[
         "male:bald",
         "male:condom",
@@ -2956,7 +2995,6 @@
         "female:x-ray"
     ],
     "[Deadflow] M200 Puniana Kensa (Girls' Frontline) [Chinese] [SAN个人汉化]":[
-        "character:m200",
         "male:sole male",
         "female:lolicon",
         "female:nakadashi",
@@ -2964,7 +3002,6 @@
         "female:sole female"
     ],
     "[Deadflow] M200-chan Gyaku Bunny (Girls' Frontline)[Chinese] [大受气包烤RO组汉化]":[
-        "character:m200",
         "male:bald",
         "female:blowjob",
         "female:bunny girl",
@@ -2988,7 +3025,6 @@
         "female:very long hair"
     ],
     "[Deadflow] Tokarev-chan Ian Service Tsuujou-ban (Girls' Frontline) [Chinese] [绅士仓库汉化]":[
-        "character:tokarev",
         "female:blowjob",
         "female:gloves",
         "female:mouth mask",
@@ -3386,7 +3422,6 @@
         "female:nakadashi"
     ],
     "[Doji ro] Senpai no Heya ni Iru Inu | 선배 방에 있는 개 (COMIC Kairakuten 2026-08) [Korean] [Team Edge] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:big breasts",
         "female:collar",
@@ -3593,8 +3628,7 @@
         "female:swimsuit",
         "female:tail",
         "female:tanlines",
-        "female:x-ray",
-        "location:beach"
+        "female:x-ray"
     ],
     "[Enokido] Hatsujouki no Shishou ga ”Kuru na” to Itta no ni | 发情期的师父都说过「不可以来」的 [Chinese] [欶澜汉化组] [Digital]":[
         "male:shotacon",
@@ -3682,7 +3716,6 @@
         "female:pregnant"
     ],
     "[Esuke] Anna-san wa Osamaranai #1 | 杏南姐无法平静下来#1 (COMIC Kairakuten 2025-08) [Chinese] [暴碧汉化组] [Digital]":[
-        "language:translated",
         "male:glasses",
         "male:sole male",
         "female:big breasts",
@@ -3806,7 +3839,6 @@
     ],
     "[FANBOX] kugatu28":[],
     "[FANBOX] kyuuta 2026.6.5-7.2":[
-        "character:hk416",
         "character:ump45",
         "female:bunny girl",
         "female:netorare",
@@ -4129,7 +4161,6 @@
         "female:very long hair"
     ],
     "[Fence14] Kyoudai de Shitara Ikemasen | 姐弟間不能做的禁忌之事  [Chinese] [天帝哥個人漢化]":[
-        "language:translated",
         "artist:fence 14",
         "male:big penis",
         "male:condom",
@@ -4164,7 +4195,6 @@
         "female:transparent clothing",
         "female:unusual pupils",
         "female:x-ray",
-        "other:full color",
         "other:multi-work series"
     ],
     "[Fishinloli] Rori(kon) no honkai | 萝莉(控)的本愿 [Chinese] [Sky110036个人汉化] [Digital]":[
@@ -4566,7 +4596,6 @@
         "female:tomboy"
     ],
     "[Hamusuta-nonikomi] (Motsuaki) Bachi Kuso Sexual Harrassment Kodomo Enkai(chinese)(軍軍尼爾不專業AI機翻)":[
-        "language:translated",
         "group:hamusuta-nonikomi",
         "male:bald",
         "female:ahegao",
@@ -4584,8 +4613,7 @@
         "female:stockings",
         "female:tanlines",
         "female:vaginal birth",
-        "female:x-ray",
-        "other:rough translation"
+        "female:x-ray"
     ],
     "[HarmoNeaR (Various)] \"BluArch Juukan + Ishukan Goudoushi\" Sow do on me! vol. 2  | 蔚藍檔案獸交+異種姦合同誌 Sow do on me! Vol. 2 (Blue Archive) [Chinese] [初雪個人漢化] [Digital] [Incomplete]":[
         "male:bear",
@@ -5027,7 +5055,6 @@
         "female:stockings"
     ],
     "[Hyoco Road (Hyocorou)] Seiso x Hanten ~Onna Tomodachi ga Succubus ni Karada o Nottorarete Mainichi Seiryoku Teikyou Saserareru Hanashi~ | 清纯×反转 ~关于女性朋友被魅魔附身后我只能每天供奉精力这件事~ [Chinese] [驴子汉化组]":[
-        "group:hyoco road",
         "male:glasses",
         "male:sole male",
         "female:beauty mark",
@@ -5616,6 +5643,23 @@
         "female:pantyhose",
         "female:pregnant",
         "female:stockings"
+    ],
+    "[KOYUKI-ya (Koyuki, Yaki Tomato)] Uchi no Yandere na Kaineko-chan ni Mechakucha ni Shiborarechau Hanashi | 關於我被收養的貓弄得精盡人亡的故事 [Chinese] [Digital]":[
+        "language:translated",
+        "group:koyuki-ya",
+        "artist:yakitomato",
+        "male:sole male",
+        "female:ahegao",
+        "female:big breasts",
+        "female:catgirl",
+        "female:femdom",
+        "female:kemonomimi",
+        "female:multiple orgasms",
+        "female:slime",
+        "female:sole female",
+        "female:tail",
+        "female:very long hair",
+        "female:yandere"
     ],
     "[KRS] Shikikan no Tame ni Naisho de AV ni Shutsuen suru RO to Honnin to wa Kizukazu ni Sono AV o Mitsuzukeru Shikikan (Girls' Frontline) [Chinese] [大受气包烤RO组汉化]":[
         "male:dark skin",
@@ -9182,12 +9226,10 @@
         "female:lolicon"
     ],
     "[Rondonko] Nitamono Kyoudai (COMIC LO 2021-07) [Chinese] [蓬莱玉枝个人汉化] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:lolicon",
         "female:sister",
-        "female:sole female",
-        "other:mosaic censorship"
+        "female:sole female"
     ],
     "[RudySaki] My Life as a Succubus Ch. 2 | 我作为魅魔的生活 第二章 [Chinese] [贱兔汉化组]":[
         "male:gender change",
@@ -11076,6 +11118,38 @@
         "female:squirting",
         "female:x-ray"
     ],
+    "[Vpan's EXTASY (Satou Kuuki)] Vanishing Reality ~Otome Ginsei Lumiphonia~ | Vanishing Reality ～少女銀星 露米芙妮亞～ [Chinese] [Decensored] [Digital]":[
+        "language:translated",
+        "group:vpans extasy",
+        "male:gender change",
+        "male:low shotacon",
+        "male:monster",
+        "male:shotacon",
+        "male:tentacles",
+        "male:tomgirl",
+        "male:virginity",
+        "female:ahegao",
+        "female:anal",
+        "female:bandages",
+        "female:big ass",
+        "female:big breasts",
+        "female:bondage",
+        "female:corruption",
+        "female:defloration",
+        "female:double penetration",
+        "female:gloves",
+        "female:impregnation",
+        "female:magical girl",
+        "female:mind break",
+        "female:mind control",
+        "female:nakadashi",
+        "female:netorare",
+        "female:rape",
+        "female:tentacles",
+        "female:thigh high boots",
+        "female:vtuber",
+        "other:uncensored"
+    ],
     "[Waage (shift)] Gunjouiro no Sora - Ultramarine sky | 湛蓝情空 (Blue Archive) [Chinese] [下江小春汉化组] [Digital]":[
         "male:sole male",
         "female:halo",
@@ -11088,7 +11162,6 @@
         "female:sole female"
     ],
     "[Wananmeishicheng (Beijuu)] Koakuma no Batsu Game | 小惡魔的懲罰游戲 (Blue Archive) [Chinese] [便宜漢化] [Digital]":[
-        "character:mutsuki asagi",
         "male:glasses",
         "male:sole male",
         "female:defloration",
@@ -11171,6 +11244,24 @@
         "female:rape",
         "female:sole female",
         "female:stockings"
+    ],
+    "[Yaki Tomahawk Steak (Yakitomato)] Kenzen rabu kome manga de habuka re-gachina H shin gattsuri kaitara kou natta [Chinese] [Digital]":[
+        "language:translated",
+        "artist:yakitomato",
+        "male:condom",
+        "male:sole male",
+        "female:big breasts",
+        "female:breast feeding",
+        "female:collar",
+        "female:cunnilingus",
+        "female:defloration",
+        "female:kissing",
+        "female:leg lock",
+        "female:nipple stimulation",
+        "female:schoolgirl uniform",
+        "female:sole female",
+        "female:squirting",
+        "other:tankoubon"
     ],
     "[Yakinikuya Yusi (Akisawa Yusi)] Sensei no Koto ga Daisuki na Arona-chan to Goui Ari Icha Love Nakayoshi Hon | 和最喜欢老师的阿罗娜你情我愿卿卿我我亲亲密密的本 (Blue Archive) [Chinese]":[
         "female:defloration",
@@ -12065,7 +12156,6 @@
         "female:sole female"
     ],
     "[squeezecandyheaven (Ichihaya)] Kono Dosukebe Haishinsha, Class no Do-Jimi JC dewa? | 这个超淫乱主播，难道是班里那个超不起眼的JC? [Chinese] [Decensored] [Digital]":[
-        "language:translated",
         "group:squeeze candy heaven",
         "female:defloration",
         "female:lolicon",
@@ -12226,7 +12316,6 @@
         "other:multi-work series"
     ],
     "[なだゆい] 我的肛门才不弱呢！！ ～女骑士大人向肛门果冻屈服之前……～ （AI翻）":[
-        "language:translated",
         "artist:nadayui",
         "female:anal",
         "female:anal intercourse",
@@ -12239,8 +12328,7 @@
         "female:nakadashi",
         "female:slime",
         "female:sole female",
-        "female:stockings",
-        "other:rough translation"
+        "female:stockings"
     ],
     "[ねっこ] 蔚藍檔案R18相关翻译合集":[],
     "[ねっこ] 蔚藍檔案相关翻译合集":[
@@ -12351,7 +12439,6 @@
         "female:sole female"
     ],
     "[奥ヴぁ] ポンコツ特殊部隊と異常存在":[
-        "artist:okuva",
         "female:drugs"
     ],
     "[少女喫茶-KeyTail-]メスガキ義妹 負け負け誘惑性活":[
