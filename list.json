@@ -172,7 +172,6 @@
         "female:stockings"
     ],
     "(C102) [Hatishiro (Itou Hachi)] Majo to Tsukaima - Witch and Familiar 6 [Chinese] [透明声彩汉化组]":[
-        "language:translated",
         "artist:itou hachi",
         "female:females only",
         "female:kemonomimi"
@@ -352,7 +351,6 @@
         "female:wings"
     ],
     "(C104) [Bizensiki Roroppu (Bizen)] Ani no Te mo Karitai [Chinese] [甜族星人x我不看本子汉化]":[
-        "group:bizensiki roroppu",
         "male:sole male",
         "female:anal",
         "female:anal intercourse",
@@ -585,11 +583,8 @@
         "female:lolicon",
         "female:yuri"
     ],
-    "(C105)[flügel]idol sharkly(Girls' Frontline)[Chinese] [大受气包烤RO组汉化]":[
-        "artist:flugel"
-    ],
+    "(C105)[flügel]idol sharkly(Girls' Frontline)[Chinese] [大受气包烤RO组汉化]":[],
     "(C105)[sasamiya oozora(geherutsu)]Kawaii AN-9 wa osoro4a!(Girls' Frontline)[Chinese] [大受气包烤RO组汉化]":[
-        "character:ak-12",
         "female:very long hair"
     ],
     "(C106) [Circle-Fiore (Ekakibit)] (Kyou mo) Onegai Luci | (今天也)拜托了露西 (Zenless Zone Zero) [Chinese] [欶澜汉化组]":[
@@ -624,6 +619,30 @@
         "male:sole male",
         "female:nakadashi",
         "female:sole female"
+    ],
+    "(C106) [Seika Kairaku Shoten (Usagihara Kuro)] TS Haishin Oji-san ~Loli Haishin de Raku shite Kurashitai noni Meikko ga Ecchi na Itazura o Shitekuru~ [Chinese] [小泉澪個人漢化]":[
+        "language:translated",
+        "group:seika kairaku shoten",
+        "male:gender change",
+        "female:armpit licking",
+        "female:cunnilingus",
+        "female:females only",
+        "female:fingering",
+        "female:garter belt",
+        "female:hidden toy",
+        "female:hood",
+        "female:hotpants",
+        "female:incest",
+        "female:kissing",
+        "female:lingerie",
+        "female:lolicon",
+        "female:niece",
+        "female:sex toys",
+        "female:stockings",
+        "female:twintails",
+        "female:very long hair",
+        "female:yuri",
+        "other:mosaic censorship"
     ],
     "(C106) [Tamamushi Iro] Shikikan wa Bunny Vector no Yume o Miru ka... tte Iwaretemo":[],
     "(C106) [Tamamushiiro (Various)] Haiboku  FrontlineGoudou Second MISSING DOLLS 2 (Girls' Frontline)":[
@@ -3915,7 +3934,6 @@
         "female:zombie"
     ],
     "[Fanbox / Fantia] Hex_D Collection (Hxd9585) [2024/01 - 2026/07/31]":[
-        "character:artoria caster",
         "character:nightingale",
         "male:muscle",
         "male:sole male",
@@ -4461,7 +4479,6 @@
         "female:tail plug"
     ],
     "[Gensou Graphics (Ogami Kazuki)] Kusozako Kyuuketsuki ~Rachi Sareta to Omottara Choroama datta no de Okashitemita~[Chinese][AI translated]":[
-        "group:gensou graphics",
         "female:glasses",
         "female:pantyhose",
         "female:sole female",
@@ -5427,7 +5444,6 @@
         "female:nakadashi"
     ],
     "[Itou Hachi] Kaki Oroshi (Gouhou Yuri Fuufu Bon) [Chinese] [黑他累漢化組]":[
-        "language:translated",
         "female:females only",
         "female:kemonomimi"
     ],
@@ -5646,7 +5662,6 @@
         "female:sole female"
     ],
     "[Jury] Haraiya-san wa hen na oshie ni nanka makenai [Chinese] [AKwoL烤肉组]":[
-        "artist:jury",
         "male:gang rape",
         "male:monster",
         "female:blindfold",
@@ -6204,7 +6219,6 @@
         "female:twintails"
     ],
     "[Kemominnosuke] Kankan Darasama to A・So・Bo [Chinese]":[
-        "language:translated",
         "group:kemominnosuke",
         "male:shotacon",
         "male:sole male",
@@ -7183,7 +7197,6 @@
         "female:vampire"
     ],
     "[Meifu Madou (Ogami Kazuki)] Muhyojo-nushi-sama sukizuki kintsugi ningyo KT | 面无表情但其实最喜欢金缮主人的人偶KT [Chinese] [吗喽汉化组]":[
-        "group:meifu madou",
         "male:onahole",
         "male:sex toys",
         "male:sole male",
@@ -7649,7 +7662,6 @@
         "female:tracksuit"
     ],
     "[Monchan rev3] Kimochi Ii Gasshuku 3-nen 2-kumi   A-hen Sex Kyoushuu | 舒服的合宿 3年2组A班 性爱教学 [Chinese] [真不可视汉化组]":[
-        "artist:monchan rev3",
         "male:sole male",
         "female:ball sucking",
         "female:blowjob",
@@ -7843,7 +7855,6 @@
         "female:sole female"
     ],
     "[Naitou2 (F4U)] Renai Kinshi no Yuusha Party ni Mukanai Jimiko no S-kyuu Dosukebe Status | 与禁止恋爱的勇者小队不相符的土妹子是S级痴女 [Chinese] [牛肝菌汉化] [Digital]":[
-        "language:translated",
         "group:naitou2",
         "male:sole male",
         "female:chikan",
@@ -7852,8 +7863,7 @@
         "female:gloves",
         "female:handjob",
         "female:hidden sex",
-        "female:sole female",
-        "other:multi-work series"
+        "female:sole female"
     ],
     "[Naitou2 (F4U)] Renai Kinshi no Yuusha Party ni Mukanai Jimiko no S-kyuu Dosukebe Status 不適合禁止戀愛的勇者小隊的土妹子的S級痴女屬性 [Chinese] [沒有漢化] [Digital]":[
         "male:sole male",
@@ -8538,7 +8548,6 @@
         "female:x-ray"
     ],
     "[Niikyuu (Luku)] Imouto no Tomodachi ga Akogare no G-Cup Gal Cosplayer Datta Hanashi 2 | 妹妹的朋友是我最爱的G罩杯辣妹COSPLAYER的故事2 [Chinese] [白杨汉化组]":[
-        "language:translated",
         "artist:luku",
         "male:sole male",
         "female:anal",
@@ -9985,7 +9994,6 @@
         "female:tomboy"
     ],
     "[Ranshi to Kimi to. (santa)] Kanojo Saimin 3 Omake Tanpen Manga \"Sato Takashi no Kokoronokori AmeSch Tenryuji Tannou Shinai no wa Uso deshou?\" [Chinese] [B_Meow个人汉化] [Digital]":[
-        "group:ranshi to kimi to.",
         "male:bald",
         "male:glasses",
         "male:teacher",
@@ -9996,7 +10004,6 @@
         "female:very long hair"
     ],
     "[Rapid Rabbit (Tomotsuka Haruomi)] Ryou wa no Dara-san Koushiki no you de Hikoushiki na Inchiki Hon [Chinese]  [Digital]":[
-        "language:translated",
         "group:rapidrabbit",
         "male:crossdressing",
         "male:freckles",
@@ -10010,7 +10017,6 @@
         "female:sole female"
     ],
     "[Rev3 (Monchan rev3)] Ore ni dake Wagamama na Ojousama wa Otomari Koubi ga Shitai | 只对我一人尽情撒娇的大小姐想要住下来与我做爱 [Chinese] [白杨汉化组] [Digital]":[
-        "group:rev3",
         "male:sole male",
         "female:lolicon",
         "female:nakadashi",
@@ -10931,7 +10937,6 @@
         "female:very long hair"
     ],
     "[Surumenium (Taniguchi Daisuke)] Kanojo no Mama mo Sex Friend ni shita Hanashi! [Chinese]":[
-        "language:translated",
         "group:surumenium",
         "male:sole male",
         "female:big ass",
@@ -10954,7 +10959,6 @@
         "female:squirting",
         "female:stockings",
         "female:twintails",
-        "mixed:group",
         "other:multi-work series"
     ],
     "[Suteneko Lab.] Dusk City/ DECOY The Witch of the Blue":[
@@ -10975,7 +10979,6 @@
         "female:stockings"
     ],
     "[Suzuki Kyoutarou] JC'S TRIP [Chinese] [Decensored] [Digital]":[
-        "language:translated",
         "male:bbm",
         "male:big penis",
         "male:condom",
@@ -11000,11 +11003,9 @@
         "female:schoolgirl uniform",
         "female:sleeping",
         "female:twintails",
-        "female:x-ray",
-        "other:tankoubon"
+        "female:x-ray"
     ],
     "[Suzuki Kyoutarou] Madogiwa no Tabako-san - Tabakosan on the window -Bangaihen- | 窗边的小烟 番外篇 (COMIC AUN 2021-10) [Chinese] [暴碧汉化组] [Digital]":[
-        "language:translated",
         "male:bbm",
         "male:sole male",
         "female:lolicon",
@@ -11013,7 +11014,6 @@
         "female:sole female"
     ],
     "[Suzuki Kyoutarou] Madogiwa no Tabako-san - Tabakosan on the window Ch. 5 | 窗边的小烟 第五话 (COMIC AUN 2020-04) [Chinese] [暴碧汉化组] [Digital]":[
-        "language:translated",
         "male:bbm",
         "male:sole male",
         "female:impregnation",
@@ -11364,7 +11364,6 @@
         "female:x-ray"
     ],
     "[Taniguchi Daisuke] Seihanzai Saihan Boushi Program (COMIC Anthurium 2018-09) [Chinese] [cqxl自己汉化] [Digital]":[
-        "language:translated",
         "male:sole male",
         "female:big breasts",
         "female:sole female"
@@ -11576,7 +11575,6 @@
         "female:thick eyebrows"
     ],
     "[Tomotsuka Haruomi] Tsurimesu | 傲慾女子 [Chinese] [Decensored] [Digital]":[
-        "language:translated",
         "female:anal",
         "female:beauty mark",
         "female:big breasts",
@@ -11593,11 +11591,9 @@
         "female:tall girl",
         "female:thick eyebrows",
         "female:tomboy",
-        "female:x-ray",
-        "other:tankoubon"
+        "female:x-ray"
     ],
     "[Tomotuka Haruomi] Reiwa no Darasan | 令和的蛇螺小姐 [Chinese] [神州国光社]":[
-        "language:translated",
         "artist:tomotsuka haruomi",
         "male:crossdressing",
         "male:tomgirl",
