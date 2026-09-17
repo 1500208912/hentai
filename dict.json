@@ -1791,7 +1791,6 @@
     },
     {
         "(SC2019 Summer) [Mutou Koucha] Tsundere Kanojo ga Sunao ni Naru Made Ecchi [Chinese] [兔司姬漢化組]":[
-            "artist:mutou koucha",
             "male:sole male",
             "female:schoolgirl uniform",
             "female:sole female",
@@ -2374,7 +2373,6 @@
     },
     {
         "[Ahemaru] Anti-Insect Specialists small collection | 对虫师小合集 [Chinese] [KOKORO个人汉化]":[
-            "artist:ahemaru",
             "female:ahegao",
             "female:big breasts"
         ]
@@ -5657,7 +5655,6 @@
     },
     {
         "[Gadget Koubou (A-10)] Oji-sama Nabutte!! (Puella Magi Madoka Magica) [Digital]":[
-            "group:gadget",
             "male:bald",
             "male:bbm",
             "male:dilf",
@@ -14916,6 +14913,36 @@
         ]
     },
     {
+        "[Vpan's EXTASY (Satou Kuuki)] Vanishing Reality 5 ~Succubus Application~ [Chinese] [DiamondDogs] [Digital]":[
+            "group:vpans extasy",
+            "male:corruption",
+            "male:gender change",
+            "male:gender morph",
+            "female:anal",
+            "female:big breasts",
+            "female:blowjob",
+            "female:corruption",
+            "female:crotch tattoo",
+            "female:double penetration",
+            "female:femdom",
+            "female:garter belt",
+            "female:gloves",
+            "female:inverted nipples",
+            "female:kissing",
+            "female:leotard",
+            "female:magical girl",
+            "female:maid",
+            "female:nakadashi",
+            "female:nipple piercing",
+            "female:painted nails",
+            "female:piercing",
+            "female:stockings",
+            "female:tentacles",
+            "female:thigh high boots",
+            "female:twintails"
+        ]
+    },
+    {
         "[Vpan's EXTASY (Satou Kuuki)] Vanishing Reality ~Otome Ginsei Lumiphonia~ | Vanishing Reality ～少女銀星 露米芙妮亞～ [Chinese] [Decensored] [Digital]":[
             "male:gender change",
             "male:low shotacon",
@@ -15553,6 +15580,22 @@
             "female:sister",
             "female:sole female",
             "female:x-ray"
+        ]
+    },
+    {
+        "[green TEA。] Ore no Seito wa Seishori Maid | 我的学生是性处理女仆 (COMIC Anthurium 2026-07) [Chinese] [紫藤汉化组] [Digital]":[
+            "male:sole male",
+            "male:teacher",
+            "female:anal",
+            "female:anal intercourse",
+            "female:big breasts",
+            "female:blowjob",
+            "female:kissing",
+            "female:maid",
+            "female:nakadashi",
+            "female:prostitution",
+            "female:sole female",
+            "female:stockings"
         ]
     },
     {
@@ -16820,52 +16863,103 @@
         ]
     },
     {
-        "[green TEA。] Ore no Seito wa Seishori Maid | 我的学生是性处理女仆 (COMIC Anthurium 2026-07) [Chinese] [紫藤汉化组] [Digital]":[
+        "[Dorozumi] Choo Kawaikutte, Shiawashie | 超可愛的 我好嗨森 (COMIC X-EROS #136) [Chinese] [沒有漢化] [Digital]":[
             "language:translated",
+            "male:collar",
+            "male:schoolboy uniform",
             "male:sole male",
-            "male:teacher",
-            "female:anal",
-            "female:anal intercourse",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:tall girl"
+        ]
+    },
+    {
+        "[Nigiri Usagi] 2-nin no Oshigoto [Zenwa] | 兩人的工作【全話】[Chinese] [天帝哥個人漢化]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "male:voyeurism",
             "female:big breasts",
             "female:blowjob",
-            "female:kissing",
-            "female:maid",
+            "female:inverted nipples",
+            "female:milf",
             "female:nakadashi",
+            "female:netorare",
+            "female:paizuri",
+            "female:schoolgirl uniform",
+            "female:sex toys",
+            "female:spanking",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[Nigiri Usagi] Sex Suru to SP o Kaifuku shite Kureru Kuro Gal Healer | 只要做愛就能回復SP值的黑皮辣妹奶媽 [Chinese] [天帝哥個人漢化] [Decensored]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "male:sole male",
+            "female:collar",
+            "female:dark skin",
+            "female:gyaru",
+            "female:sole female",
+            "female:sweating"
+        ]
+    },
+    {
+        "[Nigiri usagi] karui kimochi de kyaba jo ni natta kekka [Zenwa] | 抱著隨便試試的心態做陪酒妹的後果【全話】[Chinese] [天帝哥個人漢化]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "male:bald",
+            "male:bbm",
+            "male:dilf",
+            "male:drugs",
+            "female:ahegao",
+            "female:anal",
+            "female:cheating",
+            "female:drugs",
+            "female:filming",
+            "female:nakadashi",
+            "female:netorare",
             "female:prostitution",
+            "female:rape",
+            "female:sole female",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[にぎりうさぎ] 軽い気持ちでキャバ嬢になった結果【後編②】 [Chinese] [天煌汉化组]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "male:bbm"
+        ]
+    },
+    {
+        "[Nigiri Usagi] Babysitter Kunrenkou [chinese] [正被迫服侍婴儿(人类)的猫猫个猫汉化]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "female:glasses"
+        ]
+    },
+    {
+        "[Nigiri Usagi] InCha no Atashi ni Haru ga Kita Zoku [Zenpen] | 陰角的我的春天來了·續【前編】[Chinese] [天帝哥個人漢化]":[
+            "language:translated",
+            "artist:nigiri usagi",
+            "male:condom",
+            "female:big breasts",
+            "female:eye-covering bang",
+            "female:schoolgirl uniform",
             "female:sole female",
             "female:stockings"
         ]
     },
     {
-        "[Vpan's EXTASY (Satou Kuuki)] Vanishing Reality 5 ~Succubus Application~ [Chinese] [DiamondDogs] [Digital]":[
+        "[Nigiri Usagi] Hanko Kawari Ni Chinpo De Shiofuki - Zoku | 用肉棒代替蓋章幹到潮吹・續 [Chinese] [天帝哥個人漢化]":[
             "language:translated",
-            "group:vpans extasy",
-            "male:corruption",
-            "male:gender change",
-            "male:gender morph",
-            "female:anal",
+            "artist:nigiri usagi",
+            "male:bbm",
+            "male:voyeurism",
             "female:big breasts",
-            "female:blowjob",
-            "female:corruption",
-            "female:crotch tattoo",
-            "female:double penetration",
-            "female:femdom",
-            "female:garter belt",
-            "female:gloves",
-            "female:inverted nipples",
-            "female:kissing",
-            "female:leotard",
-            "female:magical girl",
-            "female:maid",
-            "female:nakadashi",
-            "female:nipple piercing",
-            "female:painted nails",
-            "female:piercing",
-            "female:stockings",
-            "female:tentacles",
-            "female:thigh high boots",
-            "female:twintails",
-            "mixed:group"
+            "female:glasses",
+            "female:sole female",
+            "female:sweating"
         ]
     }
 ]
