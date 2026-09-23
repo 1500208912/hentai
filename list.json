@@ -1726,9 +1726,7 @@
     ],
     "NieRAutomata World Guide Art Collection":[],
     "Pixiv Artist - Samidare (Pixiv id=10083812)":[],
-    "Rakuen Tsuiho -Expelled from Paradise- Saito Masatsugu Design Works":[
-        "artist:saitou masatsugu"
-    ],
+    "Rakuen Tsuiho -Expelled from Paradise- Saito Masatsugu Design Works":[],
     "Sophie no Atelier - Fushigi na Yume no Renkinjutsushi - Koushiki Visual Collection (Dengeki no Kouryakubon)":[],
     "The Art of Porco Rosso":[],
     "The Censor DX Edition ArtBook":[],
@@ -2545,7 +2543,6 @@
         "female:sole female"
     ],
     "[BlossomSphere (Sakurayu Hal)] Kotowarenai Jimi na Osananajimi ga, Seishori Iin o Makasareru Hanashi. | 不懂拒绝不起眼的青梅竹马被委任为性处理委员的故事 [Chinese] [白杨汉化组] [Digital]":[
-        "group:blossom sphere",
         "male:schoolboy uniform",
         "male:teacher",
         "female:ahegao",
@@ -2561,8 +2558,7 @@
         "female:netorare",
         "female:public use",
         "female:schoolgirl uniform",
-        "female:twintails",
-        "location:infirmary"
+        "female:twintails"
     ],
     "[Boneboom (Bone)] 粉幼檔案1-遊戲部篇":[
         "male:sole male",
@@ -8190,7 +8186,6 @@
         "female:x-ray"
     ],
     "[Mochi-ya (Karoti)] Mesugaki Rina-chan VOL. 3 | 雌性小鬼莉娜醬VOL.3 [Chinese] [Decensored] [Digital]":[
-        "group:mochi-ya",
         "male:big penis",
         "male:glasses",
         "male:sole male",
@@ -8412,7 +8407,6 @@
         "female:twintails"
     ],
     "[Momojiru Teien (Momokumo)] Kunikida Senpai no Kakushigoto | 國木田學姐的秘密 ～偷看了文藝社學姐偷偷寫的色情小說後，順勢做了愛的故事～ [Chinese] [Decensored] [Digital]":[
-        "group:momojiru teien",
         "male:schoolboy uniform",
         "male:sole male",
         "male:virginity",
@@ -8424,7 +8418,6 @@
         "female:x-ray"
     ],
     "[Momojiru Teien (Momokumo)] Mamono no Heya ~6 nen-buri ni Saikai shitara Hikikomori NEET ni Natteita Shinyuu no Onee-san ni Semararete Seieki o Shiboritorareru Hanashi | 魔物的房間 ～時隔六年再見面時，發現朋友的姊姊變成尼特族，還被她誘惑榨取精液的故事～ [Chinese] [Decensored] [Digital]":[
-        "group:momojiru teien",
         "male:sole male",
         "male:virginity",
         "female:big ass",
@@ -8818,6 +8811,22 @@
         "female:sumata",
         "female:urination",
         "female:x-ray"
+    ],
+    "[Nameraka Seinikuten (kamasu)] Tenshi ga Ie ni Tomari ni Kita (Sairai).":[
+        "group:yawaraka seinikuten",
+        "male:bald",
+        "male:big penis",
+        "male:sole male",
+        "female:blowjob",
+        "female:hidden sex",
+        "female:lolicon",
+        "female:multiple orgasms",
+        "female:nakadashi",
+        "female:niece",
+        "female:stomach deformation",
+        "female:very long hair",
+        "female:x-ray",
+        "other:multi-work series"
     ],
     "[Nameraka Seinikutena(Kamasu)] Tenshi ga ie ni tomari ni kita (sairai) | 小小的天使降临到我家中（再临）。[Chinese] [吗喽汉化组] [Digital]":[
         "male:armpit licking",
@@ -10640,7 +10649,6 @@
         "female:yuri"
     ],
     "[Penti] Fanbox漢化合集 [Chinese] [天帝哥個人漢化]":[
-        "parody:honkai gakuen",
         "character:meer campbell",
         "male:dark skin",
         "male:gang rape",
