@@ -1044,7 +1044,6 @@
     },
     {
         "(C88) [GADGET (A-10)] Its Time to Fall? (Puella Magi Madoka Magica) [Chinese] [沒有漢化]":[
-            "character:homura akemi",
             "female:females only",
             "female:femdom",
             "female:foot licking",
@@ -1114,7 +1113,6 @@
     },
     {
         "(C91) [Gadget Koubou (A-10)] Its Time to Fall? SIDE:M2 (Puella Magi Madoka Magica) [Chinese] [天煌汉化组]":[
-            "character:mami tomoe",
             "male:condom",
             "female:ahegao",
             "female:big breasts",
@@ -2220,7 +2218,6 @@
     },
     {
         "[A lonely Tree Frog runs away] Megumin's brainwashing is extremely delayed!! (Kono Subarashii Sekai ni Syukufuku o!) [Chinese] [Digital]":[
-            "artist:a lonely tree frog runs away",
             "female:blowjob",
             "female:cumflation",
             "female:inflation",
@@ -17631,6 +17628,16 @@
     {
         "［SigMa］クール系後輩店員さんはちょろいです。［酸菜魚ゅ°个人汉化］":[
             "male:first person perspective",
+            "female:sole female"
+        ]
+    },
+    {
+        "[Henkuma] Ikioi de Tsukameru Shiawase mo Aru | 順勢而為抓住的幸福也是有的 (COMIC Shitsurakuten 2026-04) [Chinese] [摆烂吃瓜漢化] [Digital]":[
+            "language:translated",
+            "male:sole male",
+            "female:big breasts",
+            "female:business suit",
+            "female:hairy",
             "female:sole female"
         ]
     }
