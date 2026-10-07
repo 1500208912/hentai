@@ -1754,7 +1754,6 @@
     "The Art of Porco Rosso":[],
     "The Censor DX Edition ArtBook":[],
     "Wagashi (Dagashiya) [Fantia]":[
-        "parody:toradora",
         "female:lolicon"
     ],
     "Yomu (Sgt Epper) Collection":[],
@@ -2820,7 +2819,6 @@
         "female:tomboy"
     ],
     "[Cocoa Holic (Yuizaki Kazuya)] Muhyoujou-kei Kanojo no Hatsujou Switch | 无表情系女友的发情开关 [Chinese] [白杨汉化组] [Digital]":[
-        "group:cocoa holic",
         "male:sole male",
         "female:big breasts",
         "female:blowjob",
@@ -2838,7 +2836,6 @@
         "female:x-ray"
     ],
     "[Cocoa Holic (Yuizaki Kazuya)] Tensai Shireijutsushi Sphere-chan no Junan | 天才尸灵术师苏菲娅酱的咒难 [Chinese] [绅士仓库汉化] [Digital]":[
-        "group:cocoa holic",
         "male:sole male",
         "male:virginity",
         "female:lolicon",
@@ -3049,9 +3046,7 @@
         "female:sole female"
     ],
     "[Dagashiya (Wagashi)] M200 to Sakusei no Kunren (Girls' Frontline) [Chinese]":[
-        "language:translated",
         "character:m200",
-        "artist:wagashi",
         "male:first person perspective",
         "male:sole male",
         "female:blowjob",
@@ -7649,7 +7644,6 @@
         "female:x-ray"
     ],
     "[Line Out (Ebisujima Misato)] Hinano | 阳菜乃 [Chinese]":[
-        "language:translated",
         "group:line out",
         "male:condom",
         "male:sole male",
@@ -7663,7 +7657,6 @@
         "female:very long hair"
     ],
     "[Line Out (Yonketa)] Saimin Mahou de Sokuochi❤ Namaiki Majo Koko-chan ~Tensai Elite nanonii❤ Mamono Chinpo ni Kuso Zako Make Acme❤ Kimechai mashitaa❤❤~ | 催眠魔法下瞬间堕落的❤狂妄自大魔女小可可~身为天才精英❤却被魔物大肉棒轻松拿捏猛猛败北高潮❤已经彻彻底底上瘾了啦❤❤~ [Chinese] [吗喽汉化组]":[
-        "language:translated",
         "group:line out",
         "male:dark skin",
         "male:goblin",
@@ -11454,6 +11447,13 @@
         "female:tomboy",
         "female:x-ray"
     ],
+    "[Rev3 (Monchan Rev3)] Kimochiii Tokoro no Asobikata [Chinese] [Polybeta个人机翻] [Digital]":[
+        "language:translated",
+        "group:rev3",
+        "female:lolicon",
+        "female:ponytail",
+        "female:sole female"
+    ],
     "[Rev3 (Monchan Rev3)] Kimochiii Tokoro no Asobikata [Digital]":[
         "male:sole male",
         "female:blowjob",
@@ -13707,7 +13707,6 @@
         "female:sole female"
     ],
     "[Wagashi] Omae wa Itsumo Makezugirai | 你總是不認輸 (COMIC LO 2020-12) [Chinese] [赤夜漢化組] [Digital]":[
-        "language:translated",
         "male:big penis",
         "male:condom",
         "male:sole male",
@@ -13984,13 +13983,11 @@
         "female:unusual pupils"
     ],
     "[Zuririan Byouin (Zuririan)] Ochikondara Paizuri de Nagusamete kureru Yasashisugi na Bakunyuu Imouto to Ecchi Bakari Shite Dondon Dame Ningen ni Nacchau [Chinese] [MTL]":[
-        "language:translated",
         "artist:zuririan",
         "female:big breasts",
         "female:paizuri",
         "female:sister",
-        "female:sole female",
-        "other:rough translation"
+        "female:sole female"
     ],
     "[Zyugoya] Being Targeted by Hyena-chan [English] [danke.moe] [Ongoing]":[
         "male:sole male",
