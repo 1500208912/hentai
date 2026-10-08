@@ -3627,7 +3627,6 @@
     },
     {
         "[Dagashiya (Wagashi)] M200 to Sakusei no Kunren (Girls' Frontline) [Chinese]":[
-            "character:m200",
             "male:first person perspective",
             "male:sole male",
             "female:blowjob",
@@ -8909,7 +8908,6 @@
     },
     {
         "[Line Out (Ebisujima Misato)] Hinano | 阳菜乃 [Chinese]":[
-            "group:line out",
             "male:condom",
             "male:sole male",
             "male:virginity",
@@ -8924,7 +8922,6 @@
     },
     {
         "[Line Out (Yonketa)] Saimin Mahou de Sokuochi❤ Namaiki Majo Koko-chan ~Tensai Elite nanonii❤ Mamono Chinpo ni Kuso Zako Make Acme❤ Kimechai mashitaa❤❤~ | 催眠魔法下瞬间堕落的❤狂妄自大魔女小可可~身为天才精英❤却被魔物大肉棒轻松拿捏猛猛败北高潮❤已经彻彻底底上瘾了啦❤❤~ [Chinese] [吗喽汉化组]":[
-            "group:line out",
             "male:dark skin",
             "male:goblin",
             "male:monster",
@@ -13258,6 +13255,14 @@
         ]
     },
     {
+        "[Rev3 (Monchan Rev3)] Kimochiii Tokoro no Asobikata [Chinese] [Polybeta个人机翻] [Digital]":[
+            "group:rev3",
+            "female:lolicon",
+            "female:ponytail",
+            "female:sole female"
+        ]
+    },
+    {
         "[Rev3 (Monchan Rev3)] Kimochiii Tokoro no Asobikata [Digital]":[
             "male:sole male",
             "female:blowjob",
@@ -16135,7 +16140,6 @@
     },
     {
         "[Zuririan Byouin (Zuririan)] Ochikondara Paizuri de Nagusamete kureru Yasashisugi na Bakunyuu Imouto to Ecchi Bakari Shite Dondon Dame Ningen ni Nacchau [Chinese] [MTL]":[
-            "artist:zuririan",
             "female:big breasts",
             "female:paizuri",
             "female:sister",
@@ -17775,12 +17779,111 @@
         ]
     },
     {
-        "[Rev3 (Monchan Rev3)] Kimochiii Tokoro no Asobikata [Chinese] [Polybeta个人机翻] [Digital]":[
+        "[Akanagi (Aikawa Tatsuki)] Yuutousei Jk no Himitsu no Houkago [Digital]":[
+            "parody:original",
+            "artist:aikawa tatsuki",
+            "female:big breasts",
+            "female:blowjob",
+            "female:schoolgirl uniform",
+            "female:sole female",
+            "female:stockings"
+        ]
+    },
+    {
+        "[Hikoushiki (CowBow)] Senchou no Fuwatoro Muriyari Omurice (Amakuchi) (Houshou Marine) [Chinese]":[
             "language:translated",
-            "group:rev3",
+            "character:houshou marine",
+            "artist:cowbow",
+            "male:muscle",
+            "male:sole male",
+            "female:big breasts",
+            "female:fingering",
+            "female:heterochromia",
+            "female:kissing",
+            "female:nakadashi",
+            "female:rape",
+            "female:sleeping",
+            "female:sole female",
+            "female:vtuber",
+            "female:x-ray"
+        ]
+    },
+    {
+        "[Hamusuta-nonikomi (Motsuaki)] ~Loli Bitch CG Shuu~ Miyu-chan no Natsuyasumi Kouhen [Chinese] [真不可视汉化组] [Digital]":[
+            "language:translated",
+            "group:hamusuta-nonikomi",
+            "male:bbm",
+            "male:big penis",
+            "male:dilf",
+            "male:shotacon",
+            "male:smalldom",
+            "male:sweating",
+            "male:urination",
+            "female:ahegao",
+            "female:anal",
+            "female:asphyxiation",
+            "female:bikini",
+            "female:blowjob",
+            "female:catgirl",
+            "female:daughter",
+            "female:double penetration",
+            "female:exhibitionism",
+            "female:hotpants",
+            "female:incest",
+            "female:inflation",
+            "female:internal urination",
             "female:lolicon",
-            "female:ponytail",
-            "female:sole female"
+            "female:masturbation",
+            "female:mesugaki",
+            "female:moral degeneration",
+            "female:nakadashi",
+            "female:randoseru",
+            "female:sister",
+            "female:stockings",
+            "female:stomach deformation",
+            "female:sweating",
+            "female:swimsuit",
+            "female:urination",
+            "female:x-ray",
+            "mixed:incest",
+            "other:multi-work series",
+            "location:sentou"
+        ]
+    },
+    {
+        "[Meifu Madou (Ogami Kazuki)] Mayoiga no youko-san[Chinese][AI translated]":[
+            "language:translated",
+            "artist:ogami kazuki",
+            "male:sole male",
+            "female:closed eyes",
+            "female:fox girl",
+            "female:glasses",
+            "female:kemonomimi",
+            "female:kimono",
+            "female:nakadashi",
+            "female:pregnant",
+            "female:sole female",
+            "female:tabi socks",
+            "female:tail",
+            "female:thick eyebrows"
+        ]
+    },
+    {
+        "[Yomoda Yomo] Intelli Hitozuma Amamiya Touko Sensei no Hatsujou | 高学歷(知識分子)人妻雨宮透子准教授(教師)的発情 [Chinese]":[
+            "language:translated",
+            "group:yomoda yomo japan",
+            "female:big breasts",
+            "female:blowjob",
+            "female:deepthroat",
+            "female:first person perspective",
+            "female:glasses",
+            "female:milf",
+            "female:netorare",
+            "female:pantyhose",
+            "female:sex toys",
+            "female:sole female",
+            "female:teacher",
+            "other:full color"
         ]
     }
 ]
