@@ -6335,7 +6335,6 @@
         "female:zombie"
     ],
     "[Ink Complex (Tomohiro Kai)] Tower Residence Setsugu-ka Taiou-chuu 3 [Chinese] [空気系☆漢化] [Digital]":[
-        "language:translated",
         "group:ink complex",
         "male:condom",
         "male:sole male",
@@ -6360,8 +6359,7 @@
         "female:ponytail",
         "female:stockings",
         "female:swimsuit",
-        "female:x-ray",
-        "location:sauna"
+        "female:x-ray"
     ],
     "[Inmou Choregi Salad (Inchore)] Club Abnormal [Chinese] [鈽鐳鉻銻] [Digital]":[
         "male:big penis",
@@ -7733,7 +7731,6 @@
         "female:sole female"
     ],
     "[Kuga Tsuniya] Medusa Dorei o Katta[Chinese][Temp個人翻譯]":[
-        "artist:kuga tsuniya",
         "male:sole male",
         "female:big breasts",
         "female:blindfold",
@@ -12248,7 +12245,6 @@
         "female:stockings"
     ],
     "[STANKY (Kaedeko、yozo)] Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao ni Assari Otosareru Wake ga Nai (Original) [Chinese] [無邪気漢化組]":[
-        "group:stanky",
         "male:big penis",
         "male:condom",
         "male:dark skin",
@@ -12641,7 +12637,6 @@
         "female:x-ray"
     ],
     "[Shiitake Nouen (Kanabun)] Oshikake Pet wa Aisaretai 10 + α | 不请自来的宠物渴望被爱 [Chinese] [甜族星人X超勇漢化組]":[
-        "language:translated",
         "group:shiitake nouen",
         "male:sole male",
         "female:blowjob",
@@ -13340,6 +13335,12 @@
         "female:lolicon",
         "female:sole female",
         "female:twintails"
+    ],
+    "[Suzuran Mashiro] Hajimete Shita Hi (COMIC Anthurium 2025-09) [Chinese] [AI汉化]":[
+        "language:translated",
+        "male:sole male",
+        "female:sole female",
+        "other:rough translation"
     ],
     "[Syamonabe] Kimi wa Seishunki - Dream in Adolescence | 思春期少女 [Chinese] [Midori] [Decensored] [Digital]":[
         "male:condom",
@@ -16174,15 +16175,12 @@
         "female:yuri"
     ],
     "【kskbl个人汉化】[Coiefen]The New Lab Mem 3 NTR FULL [AI Generated]":[
-        "character:kurisu makise",
         "male:dark skin"
     ],
     "【kskbl个人汉化】[coiefen] The New Lab Mem 2 NTR [English] [AI Generated]":[
-        "character:kurisu makise",
         "male:dark skin"
     ],
     "【kskbl个人汉化】[coiefen] The New Lab Mem NTR [English] [AI Generated]":[
-        "character:kurisu makise",
         "male:dark skin",
         "female:pantyhose"
     ],
