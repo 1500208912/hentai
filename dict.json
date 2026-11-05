@@ -7416,7 +7416,6 @@
     },
     {
         "[Ink Complex (Tomohiro Kai)] Tower Residence Setsugu-ka Taiou-chuu 3 [Chinese] [空気系☆漢化] [Digital]":[
-            "group:ink complex",
             "male:condom",
             "male:sole male",
             "female:beauty mark",
@@ -14610,7 +14609,6 @@
     },
     {
         "[Shiitake Nouen (Kanabun)] Oshikake Pet wa Aisaretai 10 + α | 不请自来的宠物渴望被爱 [Chinese] [甜族星人X超勇漢化組]":[
-            "group:shiitake nouen",
             "male:sole male",
             "female:blowjob",
             "female:collar",
@@ -15398,6 +15396,12 @@
             "female:lolicon",
             "female:sole female",
             "female:twintails"
+        ]
+    },
+    {
+        "[Suzuran Mashiro] Hajimete Shita Hi (COMIC Anthurium 2025-09) [Chinese] [AI汉化]":[
+            "male:sole male",
+            "female:sole female"
         ]
     },
     {
@@ -18824,11 +18828,25 @@
         ]
     },
     {
-        "[Suzuran Mashiro] Hajimete Shita Hi (COMIC Anthurium 2025-09) [Chinese] [AI汉化]":[
+        "[ooyun] How to use dolls 06 (Girls' Frontline) [Chinese] [最爱福瑞汉化组]":[
             "language:translated",
+            "character:destroyer",
+            "male:dark skin",
             "male:sole male",
+            "female:blowjob",
+            "female:nakadashi",
+            "female:rape",
             "female:sole female",
-            "other:rough translation"
+            "female:twintails",
+            "other:full color"
+        ]
+    },
+    {
+        "(FF31) [Meng Da] Destroyer SS I Caught Destroyer! (Girl's Frontline) [Chinese]":[
+            "parody:girls frontline",
+            "artist:potatorinrin",
+            "male:dark skin",
+            "female:collar"
         ]
     }
 ]
