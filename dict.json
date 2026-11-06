@@ -1703,6 +1703,13 @@
         ]
     },
     {
+        "(FF31) [Meng Da] Destroyer SS I Caught Destroyer! (Girl's Frontline) [Chinese]":[
+            "artist:potatorinrin",
+            "male:dark skin",
+            "female:collar"
+        ]
+    },
+    {
         "(FF34) [Kuyou] Hakudaku Shita Kokoro de Some (Girls' Frontline) [Chinese]":[
             "male:condom",
             "female:mind break",
@@ -17894,6 +17901,18 @@
         ]
     },
     {
+        "[ooyun] How to use dolls 06 (Girls' Frontline) [Chinese] [最爱福瑞汉化组]":[
+            "character:destroyer",
+            "male:dark skin",
+            "male:sole male",
+            "female:blowjob",
+            "female:nakadashi",
+            "female:rape",
+            "female:sole female",
+            "female:twintails"
+        ]
+    },
+    {
         "[patreon]ikuniku klukai (AI Generated)":[
             "female:blindfold",
             "female:bondage",
@@ -18825,28 +18844,6 @@
         "［SigMa］クール系後輩店員さんはちょろいです。［酸菜魚ゅ°个人汉化］":[
             "male:first person perspective",
             "female:sole female"
-        ]
-    },
-    {
-        "[ooyun] How to use dolls 06 (Girls' Frontline) [Chinese] [最爱福瑞汉化组]":[
-            "language:translated",
-            "character:destroyer",
-            "male:dark skin",
-            "male:sole male",
-            "female:blowjob",
-            "female:nakadashi",
-            "female:rape",
-            "female:sole female",
-            "female:twintails",
-            "other:full color"
-        ]
-    },
-    {
-        "(FF31) [Meng Da] Destroyer SS I Caught Destroyer! (Girl's Frontline) [Chinese]":[
-            "parody:girls frontline",
-            "artist:potatorinrin",
-            "male:dark skin",
-            "female:collar"
         ]
     }
 ]
