@@ -2889,6 +2889,14 @@
         ]
     },
     {
+        "[Artist] らす":[
+            "parody:zenless zone zero",
+            "character:silver wolf",
+            "female:hair buns",
+            "female:lolicon"
+        ]
+    },
+    {
         "[Artist] 春夏秋冬 鈴 (85499714)":[
             "female:blowjob",
             "female:halo",
@@ -18920,15 +18928,19 @@
         ]
     },
     {
-        "[Artist] らす":[
-            "parody:goddess of victory nikke",
-            "parody:zenless zone zero",
-            "character:hk416",
-            "character:silver wolf",
-            "character:vector",
-            "female:hair buns",
+        "-Artist- sawkm (25602174- @sawkm1)":[
+            "parody:genshin impact",
+            "parody:honkai star rail",
+            "artist:sawkm",
+            "female:halo",
+            "female:kemonomimi",
             "female:lolicon",
-            "other:nudity only"
+            "female:military",
+            "female:pantyhose",
+            "female:policewoman",
+            "female:small breasts",
+            "female:smoking",
+            "female:stockings"
         ]
     }
 ]
